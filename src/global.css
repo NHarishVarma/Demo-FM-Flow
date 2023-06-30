@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@font-face {
+  font-family: "Cresta";
+  src: url("/public/Cresta-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Cresta";
+  src: url("/public/Cresta-Regular.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Cresta";
+  src: url("/public/Cresta-Bold.ttf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Cresta-Regular";
+  src: url("/public/Cresta-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Arial";
+  src: url("/public/arial.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Arial";
+  src: url("/public/arialbd.ttf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Cresta-Bold";
+  src: url("/public/Cresta-Bold.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Cresta-Medium";
+  src: url("/public/Cresta-Medium.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Azo Sans";
+  src: url("/public/AzoSans-Regular.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Azo Sans";
+  src: url("/public/AzoSans-Bold.ttf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Azo Sans";
+  src: url("/public/AzoSans-Regular.ttf");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-azo-sans: "Azo Sans";
+  --font-cresta: Cresta;
+  --font-cresta-medium: Cresta-Medium;
+  --font-poppins: Poppins;
+  --font-cresta-regular: Cresta-Regular;
+  --font-cresta-bold: Cresta-Bold;
+  --font-arial: Arial;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-5xs: 8px;
+  --font-size-sm: 14px;
+  --font-size-17xl: 36px;
+  --font-size-3xl: 22px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-smi: 13px;
+  --font-size-9xl: 28px;
+  --font-size-7xl: 26px;
+  --font-size-lg: 18px;
+  --font-size-4xs: 9px;
+  --font-size-3xs: 10px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-15xl: 34px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-aliceblue-100: #eaf0f7;
+  --color-aliceblue-200: rgba(234, 240, 247, 0.6);
+  --color-white: #fff;
+  --color-gray-100: #808080;
+  --color-gray-200: #0a1a27;
+  --color-gray-300: #131523;
+  --color-gray-400: #051a28;
+  --color-gray-500: rgba(0, 0, 0, 0.12);
+  --color-gray-600: rgba(0, 0, 0, 0.87);
+  --color-gray-700: rgba(10, 26, 39, 0.8);
+  --color-gray-800: rgba(10, 26, 39, 0.11);
+  --color-gray-900: rgba(255, 255, 255, 0.5);
+  --color-gainsboro: #d2dae0;
+  --color-lightsteelblue: #b0c1d2;
+  --color-lightgray-100: #d5d7e3;
+  --color-lightgray-200: #c0cdd9;
+  --color-dimgray-100: #707070;
+  --color-dimgray-200: #4d4f5c;
+  --color-skyblue: #55d8fe;
+  --color-orange: #ffbe00;
+  --color-mediumslateblue: #0062ff;
+  --color-royalblue: #1f61c5;
+  --color-lightslategray: #7e84a3;
+  --color-deepskyblue-100: #57b8ff;
+  --color-deepskyblue-200: #38b5e8;
+  --color-silver: #b7b7b7;
+  --color-slategray: #5a607f;
+  --color-goldenrod: #f9c023;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-7xs: 6px;
+  --gap-9xs: 4px;
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-mini: 15px;
+
+  /* border radiuses */
+  --br-81xl: 100px;
+  --br-5xs: 8px;
+  --br-181xl: 200px;
+  --br-7xs: 6px;
+  --br-sm: 14px;
+  --br-xl: 20px;
+  --br-xs: 12px;
+  --br-base: 16px;
+  --br-11xl: 30px;
+  --br-9xs: 4px;
+}

@@ -1,0 +1,1188 @@
+.documentation {
+  position: absolute;
+  top: 1326px;
+  left: 1005px;
+  font-size: var(--font-size-5xl);
+  line-height: 30px;
+  font-weight: 500;
+}
+.fundDetailLookFeel1Child,
+.fundDetailLookFeel1Item {
+  position: absolute;
+  top: 985px;
+  right: 80px;
+  border-radius: var(--br-5xs);
+  width: 515px;
+  height: 261px;
+}
+.fundDetailLookFeel1Child {
+  object-fit: cover;
+}
+.fundDetailLookFeel1Item {
+  background-color: var(--color-gray-200);
+  opacity: 0.43;
+  mix-blend-mode: multiply;
+}
+.iconAwesomePlay {
+  position: absolute;
+  height: calc(100% - 28.45px);
+  top: 14.23px;
+  bottom: 14.23px;
+  left: calc(50% - 16.33px);
+  max-height: 100%;
+  width: 39.6px;
+}
+.iconAwesomePlayWrapper {
+  position: absolute;
+  top: 1080.95px;
+  left: 1198.92px;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  width: 127.58px;
+  height: 69.1px;
+}
+.fileOpenFill0Wght400Grad0Icon {
+  position: absolute;
+  top: calc(50% - 18px);
+  left: 32.94px;
+  width: 35.19px;
+  height: 36px;
+}
+.groupInternationalAnnual {
+  position: absolute;
+  top: calc(50% - 12.4px);
+  left: calc(50% - 174.5px);
+}
+.fileOpenFill0Wght400Grad0Container,
+.fileOpenFill0Wght400Grad0Group,
+.fileOpenFill0Wght400Grad0Parent {
+  position: absolute;
+  top: 1378px;
+  right: 80px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  width: 515px;
+  height: 80px;
+}
+.fileOpenFill0Wght400Grad0Container,
+.fileOpenFill0Wght400Grad0Group {
+  top: 1478px;
+}
+.fileOpenFill0Wght400Grad0Container {
+  top: 1578px;
+}
+.importantNotes {
+  position: absolute;
+  top: 46.19px;
+  left: 26.91px;
+  line-height: 18px;
+}
+.atVeroEos {
+  margin: 0;
+}
+.atVeroEosContainer {
+  position: absolute;
+  width: calc(100% - 52px);
+  top: calc(50% - 147px);
+  left: 27px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-cresta);
+  color: var(--color-gray-200);
+  display: inline-block;
+}
+.importantNotesParent {
+  position: absolute;
+  right: 80px;
+  bottom: 224px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 515px;
+  height: 476px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-400);
+  font-family: var(--font-cresta-regular);
+}
+.overview,
+.premise {
+  position: absolute;
+  top: 388px;
+  left: 142px;
+  font-size: var(--font-size-5xl);
+  line-height: 30px;
+  font-weight: 500;
+}
+.premise {
+  top: 982px;
+}
+.investmentDetails {
+  top: 1022px;
+}
+.investmentDetails,
+.investmentStrategy,
+.marketBackdrop {
+  position: absolute;
+  left: 142px;
+  font-weight: 500;
+  color: var(--color-royalblue);
+}
+.investmentStrategy {
+  top: 1494px;
+}
+.marketBackdrop {
+  bottom: 421px;
+}
+.loremIpsumDolorContainer,
+.sadipscingElitr {
+  font-family: var(--font-arial);
+}
+.loremIpsumDolorContainer {
+  position: absolute;
+  top: 452px;
+  left: 142px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 721px;
+  height: 472px;
+}
+.whatAmIContainer {
+  top: 1055px;
+}
+.atVeroEosContainer1,
+.sadipscingElitrSedContainer,
+.whatAmIContainer {
+  position: absolute;
+  left: 142px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--font-arial);
+  color: var(--color-black);
+  display: inline-block;
+  width: 721px;
+  height: 409px;
+}
+.atVeroEosContainer1 {
+  bottom: 3px;
+  white-space: pre-wrap;
+}
+.sadipscingElitrSedContainer {
+  top: 1527px;
+}
+.maskGroup35 {
+  position: absolute;
+  top: 70px;
+  left: 80px;
+  width: 1520px;
+  height: 260px;
+  object-fit: cover;
+}
+.nexusHealthEquity {
+  position: absolute;
+  top: calc(50% - 79px);
+  left: 222px;
+}
+.marketplacePrivate {
+  position: absolute;
+  top: calc(50% - 98px);
+  left: 80px;
+  font-size: var(--font-size-xs);
+  color: var(--color-orange);
+}
+.labelcontent {
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 13.5px);
+}
+.label {
+  position: absolute;
+  top: calc(50% - 6px);
+  left: 222px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-aliceblue-100);
+  width: 61px;
+  height: 24px;
+  text-align: right;
+  font-size: var(--font-size-smi);
+  color: var(--color-royalblue);
+}
+.maskGroup38 {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: calc(50% - 27px);
+  right: 13px;
+  left: 13px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 54px;
+  object-fit: cover;
+}
+.maskGroup38Wrapper {
+  position: absolute;
+  top: calc(50% - 66px);
+  left: 63px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 149px;
+  height: 92px;
+}
+.nexusHealthEquityFundParent {
+  position: absolute;
+  top: 70px;
+  left: 79px;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(10, 26, 39, 0.6),
+    #0a1a27
+  );
+  width: 1520px;
+  height: 260px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.backArrowButton {
+  position: absolute;
+  top: 100px;
+  left: 105px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.open,
+.status {
+  position: absolute;
+  top: 31.23px;
+  left: 34.9px;
+  font-size: var(--font-size-15xl);
+  line-height: 41px;
+  color: var(--color-white);
+}
+.status {
+  top: 18.14px;
+  font-size: var(--font-size-smi);
+  line-height: 15px;
+  font-family: var(--font-cresta-regular);
+}
+.f {
+  letter-spacing: -0.06px;
+}
+.a {
+  letter-spacing: 0.3px;
+}
+.t {
+  letter-spacing: -0.75px;
+}
+.portfolioByAssetContainer {
+  position: absolute;
+  top: calc(50% - 116.01px);
+  left: 26.91px;
+  font-size: var(--font-size-mini);
+  line-height: 18px;
+  font-family: var(--font-cresta-regular);
+}
+.div {
+  position: absolute;
+  top: 31.23px;
+  left: calc(50% + 12.71px);
+  font-size: var(--font-size-15xl);
+  line-height: 41px;
+  color: var(--color-white);
+}
+.equity,
+.fundMetrics {
+  position: absolute;
+  top: calc(50% - 82.68px);
+  left: 26.91px;
+  line-height: 19px;
+  font-family: var(--font-cresta);
+}
+.fundMetrics {
+  top: calc(50% + 35.05px);
+  font-size: var(--font-size-mini);
+  line-height: 18px;
+  font-family: var(--font-cresta-regular);
+}
+.g {
+  letter-spacing: -0.18px;
+}
+.div1,
+.vintage {
+  position: absolute;
+}
+.vintage {
+  top: calc(50% + 68.38px);
+  left: 26.91px;
+  line-height: 19px;
+  font-family: var(--font-cresta);
+}
+.div1 {
+  top: calc(50% + 69.38px);
+  right: 25.41px;
+  line-height: 20px;
+  color: var(--color-gray-100);
+  text-align: right;
+}
+.f1 {
+  letter-spacing: -0.27px;
+}
+.z {
+  letter-spacing: -0.16px;
+}
+.fundSize,
+.m {
+  position: absolute;
+  top: calc(50% + 113.72px);
+  line-height: 19px;
+}
+.fundSize {
+  left: 26.91px;
+  font-family: var(--font-cresta);
+}
+.m {
+  right: 25.41px;
+  color: var(--color-gray-100);
+  text-align: right;
+}
+.c {
+  letter-spacing: 0.09px;
+}
+.capitalCalled {
+  position: absolute;
+  top: calc(50% + 160.07px);
+  left: 26.91px;
+  line-height: 20px;
+  font-family: var(--font-cresta);
+}
+.o {
+  letter-spacing: -0.36px;
+}
+.y {
+  letter-spacing: -0.34px;
+}
+.andFullyDeployedContainer {
+  position: absolute;
+  top: calc(50% + 160.07px);
+  right: 25.41px;
+  line-height: 20px;
+  color: var(--color-gray-100);
+  text-align: right;
+}
+.numberOfInvestmentsContainer {
+  position: absolute;
+  bottom: 102.4px;
+  left: 26.91px;
+  line-height: 20px;
+  font-family: var(--font-cresta);
+}
+.div2,
+.div3 {
+  right: 25.41px;
+  color: var(--color-gray-100);
+  text-align: right;
+}
+.div2 {
+  position: absolute;
+  bottom: 102.4px;
+  line-height: 20px;
+}
+.div3 {
+  top: calc(50% - 82.69px);
+  line-height: 19px;
+}
+.credit,
+.div3,
+.div4 {
+  position: absolute;
+}
+.credit {
+  top: calc(50% - 36.19px);
+  left: 26.91px;
+  line-height: 19px;
+  font-family: var(--font-cresta);
+}
+.div4 {
+  top: calc(50% - 35.19px);
+  right: 25.41px;
+  line-height: 20px;
+  color: var(--color-gray-100);
+  text-align: right;
+}
+.remaining {
+  position: absolute;
+  top: 18.14px;
+  left: calc(50% + 12.71px);
+  font-size: var(--font-size-smi);
+  line-height: 15px;
+  font-family: var(--font-cresta-regular);
+  color: var(--color-white);
+}
+.c2 {
+  letter-spacing: -0.19px;
+}
+.n1 {
+  letter-spacing: -0.12px;
+}
+.span1 {
+  letter-spacing: -0.38px;
+}
+.acceptingInvestments20kContainer {
+  position: absolute;
+  top: 87.91px;
+  left: 40.34px;
+  font-size: var(--font-size-smi);
+  line-height: 15px;
+  font-family: var(--font-cresta-regular);
+  color: var(--color-white);
+}
+.buttonNormalChild,
+.groupContainer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.buttonNormalChild {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-goldenrod);
+}
+.subscribe {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 40px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.component212171 {
+  position: absolute;
+  right: 19.41px;
+  bottom: 494.62px;
+  width: 140px;
+  height: 48px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}
+.groupParent {
+  position: absolute;
+  top: 238px;
+  right: 80px;
+  width: 515.41px;
+  height: 663.62px;
+  color: var(--color-gray-400);
+  font-family: var(--font-cresta-bold);
+}
+.navbarbgIcon {
+  position: absolute;
+  height: calc(100% + 18px);
+  width: calc(100% + 18px);
+  top: 0;
+  right: -18px;
+  bottom: -18px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.userMenuIcon {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 22px;
+  width: 62px;
+  height: 36px;
+}
+.groupIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 109.79px;
+}
+.v2 {
+  letter-spacing: -0.13px;
+}
+.alternativeInvestmentPlatforContainer {
+  position: absolute;
+  top: calc(50% - 11px);
+  right: 19px;
+  line-height: 12px;
+}
+.groupDiv {
+  position: absolute;
+  top: calc(50% - 19.7px);
+  left: 22px;
+  width: 261.22px;
+  height: 39.4px;
+}
+.search {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 64px);
+}
+.iconactionsearch24px {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 8px;
+  width: 24px;
+  height: 24px;
+}
+.searchParent {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 102px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 220px;
+  height: 36px;
+  font-family: var(--font-cresta);
+}
+.navbarbgParent {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1520px;
+  height: 70px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-cresta-medium);
+}
+.path428Icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.5px);
+  top: 0;
+  right: 0.5px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.leftNavButtonChild,
+.leftNavButtonInner {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+}
+.leftNavButtonChild {
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+}
+.leftNavButtonInner {
+  left: 0;
+  background-color: var(--color-deepskyblue-200);
+  width: 6px;
+}
+.storefrontFill1Wght400Grad0Icon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 28.83px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 22.33px;
+}
+.leftNavButton {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 143px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.notificationsFill0Wght400GrIcon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 32px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 16px;
+  opacity: 0.5;
+}
+.ellipseIcon {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 2px);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+}
+.div5 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% + 2px);
+  letter-spacing: 0.8px;
+  font-weight: 500;
+}
+.leftNavButton1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 203px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.iconAwesomeTasks {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.7px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton2 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 217px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.manageAccountsFill0Wght400Icon {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.8px;
+  height: 20px;
+}
+.leftNavButton3 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 97px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.homeStorageFill0Wght400GraIcon {
+  position: absolute;
+  right: 30.16px;
+  bottom: 20px;
+  width: 19.69px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton4 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 157px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.settingsFill0Wght400Grad0OIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 30.22px;
+  width: 19.56px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton5 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 92px;
+  left: 0;
+  height: 60px;
+}
+.logoutFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 20px;
+  right: 30.17px;
+  width: 19.67px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton6 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 32px;
+  left: 0;
+  height: 60px;
+}
+.homeFill0Wght300Grad0Opsz4Icon {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 9.05px);
+  width: 18.1px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton7 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 83px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.leftNavClosedChild {
+  position: absolute;
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-900);
+  box-sizing: border-box;
+  width: 81px;
+  height: 2px;
+}
+.closedMenuIconChild {
+  top: 0;
+  width: 22px;
+}
+.closedMenuIconChild,
+.closedMenuIconInner,
+.closedMenuIconItem {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 2.5px;
+}
+.closedMenuIconItem {
+  bottom: 0;
+  width: 22px;
+}
+.closedMenuIconInner {
+  top: calc(50% - 1.25px);
+  width: 17px;
+}
+.chevronRightFill0Wght400GrIcon {
+  position: absolute;
+  height: 73.95%;
+  width: 28.07%;
+  top: 13.55%;
+  right: 0;
+  bottom: 12.5%;
+  left: 71.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.closedMenuIcon {
+  position: absolute;
+  top: 25px;
+  left: 22.29px;
+  width: 29.81px;
+  height: 20px;
+  opacity: 0.5;
+}
+.navDrawerLeft {
+  position: absolute;
+  top: 0;
+  left: -0.5px;
+  width: 80.5px;
+  height: 960px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-azo-sans);
+}
+.component20964,
+.fundDetailLookFeel1Inner {
+  position: absolute;
+  top: 238px;
+  right: 205.59px;
+  width: 515.41px;
+  height: 663.62px;
+}
+.component20964 {
+  top: 850px;
+  right: 36px;
+  width: 74px;
+  height: 74px;
+}
+.editSaveButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+}
+.edit {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 39.5px);
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.editFill0Wght400Grad0Opsz4Icon {
+  position: absolute;
+  height: calc(100% - 16px);
+  top: 8px;
+  bottom: 8px;
+  left: calc(50% + 18.5px);
+  max-height: 100%;
+  width: 20px;
+}
+.editSaveButton {
+  position: absolute;
+  top: 87px;
+  right: 60px;
+  width: 115px;
+  height: 36px;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.bg,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 1600px;
+  height: 1905px;
+}
+.bg {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 6px rgba(10, 26, 39, 0.14);
+}
+.iconMaterialClose {
+  position: absolute;
+  top: 13px;
+  right: 15.98px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.fundName {
+  position: absolute;
+  top: 0;
+  left: 6.08px;
+}
+.path297Icon {
+  position: absolute;
+  width: 100%;
+  right: 0.5px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+}
+.alternativeEquityFund {
+  position: absolute;
+  bottom: 6.81px;
+  left: 6.08px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.label1 {
+  top: 134.1px;
+  left: 63.08px;
+  width: 330px;
+  height: 58.81px;
+}
+.label1,
+.logo,
+.logo1 {
+  position: absolute;
+}
+.logo {
+  top: 30px;
+  left: calc(50% - 48px);
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+}
+.logo1 {
+  bottom: 0;
+  left: calc(50% - 18.32px);
+}
+.groupChild1,
+.rectangleWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+}
+.groupChild1 {
+  height: 100%;
+  bottom: 0;
+  background-color: var(--color-royalblue);
+  width: 24px;
+}
+.rectangleWrapper {
+  width: 100%;
+  right: 0;
+  background-color: var(--color-aliceblue-100);
+  height: 16px;
+}
+.logoParent {
+  position: absolute;
+  top: 65.81px;
+  left: calc(50% - 92px);
+  width: 184px;
+  height: 31px;
+  text-align: right;
+}
+.path498Icon,
+.path499Icon {
+  position: absolute;
+  right: 63px;
+  height: 110.1px;
+}
+.path498Icon {
+  top: 135.1px;
+  width: 330.08px;
+}
+.path499Icon {
+  width: calc(100% - 126px);
+  top: calc(50% - 324.07px);
+  left: 63px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.fundManager {
+  position: absolute;
+  top: 0;
+  left: 0.08px;
+  font-size: var(--font-size-lg);
+  line-height: 22px;
+}
+.label2 {
+  position: absolute;
+  top: 54.21px;
+  right: 0.08px;
+  width: 330px;
+  height: 58.81px;
+}
+.label3,
+.whatIsThe {
+  position: absolute;
+  left: 0.08px;
+}
+.label3 {
+  top: 54.21px;
+  width: 330px;
+  height: 58.81px;
+}
+.whatIsThe {
+  top: calc(50% - 81.1px);
+  font-size: var(--font-size-lg);
+  line-height: 22px;
+}
+.colorIcon {
+  position: absolute;
+  top: calc(50% - 2px);
+  left: calc(50% - 5px);
+  width: 10px;
+  height: 5px;
+}
+.iconNavigationArrowDropDow {
+  position: absolute;
+  top: calc(50% + 0.98px);
+  right: 0.39px;
+  width: 24px;
+  height: 24px;
+}
+.labelGroup,
+.labelParent {
+  position: absolute;
+  top: calc(50% - 26.88px);
+  left: 0.08px;
+  width: 330px;
+  height: 58.81px;
+}
+.labelGroup {
+  top: calc(50% + 51.31px);
+}
+.labelContainer,
+.labelWrapper {
+  right: 0.08px;
+  width: 330px;
+  height: 58.81px;
+}
+.labelWrapper {
+  position: absolute;
+  top: calc(50% + 51.31px);
+}
+.labelContainer {
+  top: calc(50% - 26.88px);
+}
+.div7,
+.label8,
+.labelContainer {
+  position: absolute;
+}
+.div7 {
+  bottom: 5px;
+  left: 6.08px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.label8 {
+  bottom: 96.9px;
+  left: 0.08px;
+  width: 330px;
+  height: 58.81px;
+}
+.iconNavigationArrowDropDow3 {
+  position: absolute;
+  top: calc(50% + 0.6px);
+  right: 0;
+  width: 24px;
+  height: 24px;
+}
+.labelParent1,
+.labelParent2 {
+  position: absolute;
+  top: calc(50% + 129.5px);
+  width: 330px;
+  height: 58.81px;
+}
+.labelParent1 {
+  right: 0.08px;
+}
+.labelParent2 {
+  left: 0.08px;
+}
+.iconNavigationArrowDropDow5 {
+  position: absolute;
+  top: calc(50% + 1.4px);
+  right: 0;
+  width: 24px;
+  height: 24px;
+}
+.label11 {
+  position: absolute;
+  right: 0.08px;
+  bottom: 96.9px;
+  width: 330px;
+  height: 58.81px;
+}
+.path491Icon {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 225.6px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 105px;
+}
+.briefDescriptionOf {
+  position: absolute;
+  top: calc(50% - 218.88px);
+  left: 14.16px;
+  color: var(--color-gray-100);
+}
+.buttonNormalItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-royalblue);
+}
+.save {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 21.5px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.buttonNormal1 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 92px);
+  width: 185px;
+  height: 48px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.fundManagerGeneralPartnerParent {
+  position: absolute;
+  width: calc(100% - 126px);
+  right: 63px;
+  bottom: 43px;
+  left: 63px;
+  height: 726.81px;
+}
+.imageForThe {
+  position: absolute;
+  top: calc(50% - 351.81px);
+  left: 63.08px;
+  color: var(--color-gray-100);
+}
+.maskGroup351,
+.maskGroup381 {
+  position: absolute;
+  object-fit: cover;
+}
+.maskGroup381 {
+  top: 142px;
+  right: 120px;
+  width: 217px;
+  height: 96px;
+}
+.maskGroup351 {
+  width: calc(100% - 148px);
+  top: calc(50% - 314.5px);
+  right: 71px;
+  left: 77px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 90px;
+}
+.groupParent1 {
+  position: absolute;
+  top: 35px;
+  left: 361px;
+  width: 878px;
+  height: 1177px;
+  font-size: var(--font-size-xs);
+  color: var(--color-royalblue);
+}
+.fundDetailLookFeel1 {
+  position: relative;
+  background-color: var(--color-aliceblue-100);
+  width: 100%;
+  height: 2411px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}

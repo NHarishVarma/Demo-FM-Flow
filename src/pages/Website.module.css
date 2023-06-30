@@ -1,0 +1,292 @@
+.websiteChild {
+  position: absolute;
+  bottom: 67px;
+  left: 80px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  width: 355px;
+  height: 164px;
+}
+.websiteItem {
+  left: 447px;
+}
+.rectangleDiv,
+.websiteInner,
+.websiteItem {
+  position: absolute;
+  bottom: 67px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  width: 355px;
+  height: 164px;
+}
+.websiteInner {
+  left: 815px;
+}
+.rectangleDiv {
+  right: 63px;
+}
+.premierDigitalPlatform {
+  position: absolute;
+  top: 1027px;
+  left: 385px;
+  font-size: var(--font-size-17xl);
+  line-height: 30px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.b,
+.b1,
+.b2,
+.b3 {
+  position: absolute;
+  bottom: 115px;
+  left: 113px;
+  font-size: var(--font-size-29xl);
+  line-height: 30px;
+  font-family: var(--font-arial);
+}
+.b1,
+.b2,
+.b3 {
+  left: 464px;
+}
+.b2,
+.b3 {
+  left: 834px;
+}
+.b3 {
+  left: 1201px;
+}
+.committedCapital,
+.countries,
+.fundsToDate,
+.v {
+  position: absolute;
+  bottom: 182px;
+  left: 464px;
+  font-weight: 500;
+}
+.countries,
+.fundsToDate,
+.v {
+  left: 834px;
+}
+.fundsToDate,
+.v {
+  left: 1201px;
+}
+.v {
+  bottom: 189px;
+  left: 660px;
+  line-height: 24px;
+  color: var(--color-white);
+}
+.groupIcon,
+.path424Icon {
+  position: absolute;
+  left: 0;
+  width: 1600px;
+}
+.path424Icon {
+  top: 70px;
+  height: 891.72px;
+}
+.groupIcon {
+  bottom: 64px;
+  height: 892px;
+}
+.itsGoodTo,
+.ourPlatformDelivers {
+  position: absolute;
+  left: 80px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.itsGoodTo {
+  top: 264px;
+  font-size: var(--font-size-29xl);
+  line-height: 30px;
+}
+.ourPlatformDelivers {
+  top: 356px;
+  line-height: 24px;
+  display: inline-block;
+  width: 688px;
+}
+.groupChild,
+.navbarbgIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-height: 100%;
+}
+.navbarbgIcon {
+  height: calc(100% + 18px);
+  width: calc(100% + 18px);
+  right: -18px;
+  bottom: -18px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.groupChild {
+  height: 100%;
+  bottom: 0;
+  width: 109.79px;
+}
+.t {
+  letter-spacing: -0.06px;
+}
+.v1 {
+  letter-spacing: -0.13px;
+}
+.alternativeInvestmentPlatforContainer {
+  position: absolute;
+  top: calc(50% - 11px);
+  right: 19px;
+  line-height: 12px;
+}
+.groupWrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupParent {
+  position: absolute;
+  top: calc(50% - 19.7px);
+  left: 80px;
+  width: 261.22px;
+  height: 39.4px;
+  font-family: var(--font-cresta-medium);
+}
+.marketplace {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.howItWorks {
+  left: calc(50% - 144px);
+}
+.aboutUs,
+.howItWorks,
+.privateMarketAcademy {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.privateMarketAcademy {
+  left: calc(50% + 1px);
+}
+.aboutUs {
+  right: 19px;
+}
+.groupItem {
+  position: absolute;
+  top: calc(50% - 1.5px);
+  right: 0;
+  width: 11px;
+  height: 7px;
+}
+.marketplaceParent {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 327px);
+  width: 568px;
+  height: 19px;
+  color: var(--color-royalblue);
+}
+.signUpButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-deepskyblue-200);
+}
+.signUp {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 28px);
+  font-weight: 500;
+}
+.component1172Child,
+.signUpButton {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 120px;
+}
+.component1172Child {
+  width: 100%;
+  left: 0;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.login {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 18px);
+  font-weight: 500;
+}
+.component1172 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 120px;
+  color: var(--color-royalblue);
+}
+.signUpButtonParent {
+  position: absolute;
+  top: calc(50% - 20px);
+  right: 50px;
+  width: 261px;
+  height: 40px;
+  color: var(--color-white);
+}
+.navbarbgParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 70px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.members {
+  position: absolute;
+  bottom: 182px;
+  left: 113px;
+  font-weight: 500;
+}
+.component20924 {
+  position: absolute;
+  top: 850px;
+  right: 36px;
+  width: 74px;
+  height: 74px;
+}
+.website {
+  position: relative;
+  background: linear-gradient(180deg, #fff, #eaf0f7);
+  width: 100%;
+  height: 1360px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-royalblue);
+  font-family: var(--font-cresta);
+}

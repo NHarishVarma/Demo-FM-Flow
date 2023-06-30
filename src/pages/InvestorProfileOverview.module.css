@@ -1,0 +1,2614 @@
+.bg,
+.maskGroup11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.bg {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 6px rgba(10, 26, 39, 0.14);
+}
+.maskGroup11 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.maskGroup11Wrapper {
+  position: absolute;
+  height: calc(100% - 0.27px);
+  width: calc(100% - 0.31px);
+  top: 0.13px;
+  right: 0;
+  bottom: 0.14px;
+  left: 0.31px;
+  background-color: var(--color-gray-200);
+  mix-blend-mode: multiply;
+}
+.maskGroup31 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.14px);
+  top: 0;
+  right: 0.14px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupContainer {
+  position: absolute;
+  height: calc(100% - 16.66px);
+  top: 8.47px;
+  bottom: 8.2px;
+  left: 9px;
+  background-color: var(--color-deepskyblue-200);
+  width: 111.14px;
+  mix-blend-mode: multiply;
+}
+.b,
+.b1,
+.pennRealEstate,
+.realEstate {
+  position: absolute;
+  line-height: 18px;
+  display: inline-block;
+}
+.pennRealEstate {
+  top: 11.86px;
+  left: 126.58px;
+  width: 193px;
+}
+.b,
+.b1,
+.realEstate {
+  top: calc(50% - 8.33px);
+  left: calc(50% - 349.92px);
+  width: 132px;
+}
+.b,
+.b1 {
+  left: calc(50% - 87.92px);
+}
+.b1 {
+  left: calc(50% + 43.08px);
+}
+.jMathews {
+  left: calc(50% + 167.75px);
+}
+.b2,
+.b3,
+.jMathews {
+  position: absolute;
+  top: calc(50% - 8.33px);
+  line-height: 18px;
+  display: inline-block;
+  width: 132px;
+}
+.b2 {
+  left: calc(50% + 298.75px);
+}
+.b3 {
+  right: 91.6px;
+}
+.chevronRightFill0Wght400GrIcon {
+  position: absolute;
+  top: calc(50% - 13.48px);
+  right: 17.75px;
+  width: 15.35px;
+  height: 27.14px;
+}
+.vintage2018 {
+  position: absolute;
+  bottom: 6.2px;
+  left: 126.58px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 193px;
+}
+.labelcontent {
+  position: absolute;
+  top: calc(50% - 6.66px);
+  left: calc(50% - 17px);
+  text-transform: uppercase;
+}
+.label {
+  position: absolute;
+  top: calc(50% - 11.47px);
+  left: calc(50% - 218.92px);
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-200);
+  width: 86.36px;
+  height: 19.14px;
+  text-align: center;
+  font-size: var(--font-size-4xs);
+  color: var(--color-white);
+}
+.bgParent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 1.22px);
+  right: 0;
+  left: 0;
+  height: 84.66px;
+  font-size: var(--font-size-sm);
+}
+.maskGroup11Container {
+  position: absolute;
+  height: calc(100% - 0.48px);
+  width: calc(100% - 0.31px);
+  top: 0;
+  right: 0;
+  bottom: 0.48px;
+  left: 0.31px;
+  background-color: var(--color-gray-200);
+  mix-blend-mode: multiply;
+}
+.maskGroup28 {
+  position: absolute;
+  height: calc(100% - 0.21px);
+  width: calc(100% - 0.14px);
+  top: 0.21px;
+  right: 0.14px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupDiv {
+  position: absolute;
+  height: calc(100% - 16.46px);
+  top: 8.96px;
+  bottom: 7.5px;
+  left: 9.31px;
+  background-color: var(--color-gray-200);
+  width: 111.14px;
+  mix-blend-mode: multiply;
+}
+.vintage2020 {
+  position: absolute;
+  bottom: 5.86px;
+  left: 126.58px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 193px;
+}
+.bgGroup {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84.66px;
+  font-size: var(--font-size-sm);
+}
+.committed,
+.funded,
+.manager,
+.portfolioCompanies,
+.status {
+  position: absolute;
+  top: 54.51px;
+  left: calc(50% - 218.92px);
+  text-transform: uppercase;
+  display: inline-block;
+  width: 132px;
+}
+.committed,
+.funded,
+.manager,
+.portfolioCompanies {
+  left: calc(50% - 87.92px);
+}
+.funded,
+.manager,
+.portfolioCompanies {
+  left: calc(50% + 43.08px);
+}
+.manager,
+.portfolioCompanies {
+  left: calc(50% + 159.1px);
+}
+.portfolioCompanies {
+  left: calc(50% + 298.75px);
+  width: 168px;
+}
+.ofInvestors {
+  right: 55.6px;
+  width: 168px;
+}
+.investment,
+.ofInvestors,
+.type {
+  position: absolute;
+  top: 54.51px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.type {
+  left: calc(50% - 349.92px);
+  width: 132px;
+}
+.investment {
+  left: 15px;
+  width: 86px;
+}
+.fundsInvestedIn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-9xl);
+  line-height: 40px;
+}
+.privateHealthcare {
+  margin: 0;
+}
+.vintage2023 {
+  position: absolute;
+  bottom: 6.47px;
+  left: 126.58px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 193px;
+}
+.maskGroup11Frame {
+  position: absolute;
+  height: calc(100% - 16.93px);
+  top: 8.47px;
+  bottom: 8.47px;
+  left: 9.31px;
+  background-color: var(--color-gray-200);
+  width: 110.83px;
+  mix-blend-mode: multiply;
+}
+.label2,
+.labelcontent2 {
+  position: absolute;
+  top: calc(50% - 6.66px);
+  left: calc(50% - 12px);
+}
+.label2 {
+  top: calc(50% - 11.47px);
+  left: calc(50% - 218.92px);
+  border-radius: var(--br-sm);
+  background-color: var(--color-royalblue);
+  width: 86.36px;
+  height: 19.14px;
+  text-align: center;
+  font-size: var(--font-size-4xs);
+  color: var(--color-white);
+}
+.bgContainer {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 99.89px);
+  right: 0;
+  left: 0;
+  height: 84.66px;
+  font-size: var(--font-size-sm);
+}
+.groupParent {
+  position: absolute;
+  top: 353px;
+  left: 142px;
+  width: 1396px;
+  height: 364.21px;
+  font-size: var(--font-size-xs);
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.performanceMetrics {
+  position: absolute;
+  top: 5.96%;
+  left: 2.58%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.groupItem {
+  top: 42.25px;
+}
+.groupChild1,
+.groupInner,
+.groupItem,
+.lineDiv {
+  position: absolute;
+  width: calc(100% + 1px);
+  right: 0;
+  left: -1px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 2px;
+}
+.groupInner {
+  top: -1px;
+}
+.groupChild1,
+.lineDiv {
+  top: calc(50% - 67.96px);
+}
+.groupChild1 {
+  top: calc(50% - 24.65px);
+}
+.groupChild2 {
+  top: calc(50% + 18.65px);
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  position: absolute;
+  width: calc(100% + 1px);
+  right: 0;
+  left: -1px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 2px;
+}
+.groupChild3 {
+  top: calc(50% + 63.9px);
+}
+.groupChild4,
+.groupChild5 {
+  bottom: 42.31px;
+}
+.groupChild5 {
+  bottom: -1px;
+}
+.netAssetValue {
+  position: absolute;
+  top: 11.6px;
+  left: 7.5px;
+}
+.internalRateOf {
+  position: absolute;
+  top: calc(50% - 98.61px);
+  left: 7.5px;
+}
+.multipleOfInvested,
+.paidInCapital {
+  position: absolute;
+  top: calc(50% - 55.31px);
+  left: 7.5px;
+}
+.paidInCapital {
+  top: calc(50% - 14px);
+}
+.distributedToPaid,
+.residualValueTo {
+  position: absolute;
+  top: calc(50% + 31.31px);
+  left: 7.5px;
+}
+.residualValueTo {
+  top: calc(50% + 76.56px);
+}
+.totalValueTo {
+  position: absolute;
+  bottom: 14.65px;
+  left: 7.5px;
+}
+.b12,
+.b13,
+.b14,
+.b15 {
+  position: absolute;
+  right: 9.35px;
+  line-height: 20px;
+  font-family: var(--font-azo-sans);
+  text-align: right;
+}
+.b12 {
+  top: 12.6px;
+}
+.b13,
+.b14,
+.b15 {
+  top: calc(50% - 97.61px);
+}
+.b14,
+.b15 {
+  top: calc(50% - 54.31px);
+}
+.b15 {
+  top: calc(50% - 13px);
+}
+.b16 {
+  top: calc(50% + 32.31px);
+}
+.b16,
+.b17,
+.b18 {
+  position: absolute;
+  right: 9.35px;
+  line-height: 20px;
+  font-family: var(--font-azo-sans);
+  text-align: right;
+}
+.b17 {
+  top: calc(50% + 77.56px);
+}
+.b18 {
+  bottom: 13.65px;
+}
+.lineParent {
+  position: absolute;
+  width: calc(100% - 39px);
+  top: calc(50% - 144.53px);
+  right: 21.25px;
+  left: 17.75px;
+  height: 307.04px;
+}
+.selectboxbg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+}
+.all {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 12px;
+  font-weight: 500;
+}
+.smallDownIcon {
+  position: absolute;
+  top: calc(50% - 3px);
+  right: 12px;
+  width: 11px;
+  height: 7px;
+}
+.selectboxfilter {
+  position: absolute;
+  top: 23.47px;
+  right: 36.32px;
+  width: 110px;
+  height: 32px;
+  font-size: var(--font-size-smi);
+  color: var(--color-silver);
+  font-family: var(--font-azo-sans);
+}
+.moreVertFill0Wght400Grad0Icon {
+  position: absolute;
+  top: 23px;
+  right: 20.87px;
+  width: 4.8px;
+  height: 32px;
+}
+.seeMore {
+  position: absolute;
+  top: -2px;
+  left: 7px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.iconMaterialArrowForward {
+  position: absolute;
+  height: calc(100% - 1.69px);
+  top: 0.85px;
+  right: 0;
+  bottom: 0.85px;
+  max-height: 100%;
+  width: 14.31px;
+}
+.componeseeMoreButtonnt254 {
+  position: absolute;
+  right: 20.87px;
+  bottom: 30.49px;
+  width: 108.9px;
+  height: 16px;
+  cursor: pointer;
+  text-align: right;
+  color: var(--color-royalblue);
+}
+.rectangleParent {
+  position: absolute;
+  top: 738px;
+  left: 141px;
+  width: 688px;
+  height: 469px;
+}
+.fundDocuments {
+  position: absolute;
+  top: 5.98%;
+  left: 2.14%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.32px;
+  line-height: 13px;
+  color: var(--color-gray-200);
+}
+.groupChild6 {
+  position: absolute;
+  height: 0.45%;
+  width: 94.8%;
+  top: 24.77%;
+  right: 2.98%;
+  bottom: 74.79%;
+  left: 2.22%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.moreVertFill0Wght400Grad0Icon1 {
+  position: absolute;
+  top: 21px;
+  right: 20.87px;
+  width: 4.8px;
+  height: 32px;
+}
+.filterButton,
+.filterButtonChild {
+  position: absolute;
+  top: calc(50% - 3.5px);
+  right: 0;
+  width: 12px;
+  height: 7px;
+}
+.filterButton {
+  top: calc(50% - 143.1px);
+  right: 146.01px;
+  width: 47px;
+  height: 15px;
+}
+.name {
+  position: absolute;
+  top: -6.67%;
+  left: 0;
+  line-height: 13px;
+  text-transform: uppercase;
+}
+.filterButton1,
+.filterButton2 {
+  position: absolute;
+  top: calc(50% - 143.1px);
+  height: 15px;
+}
+.filterButton1 {
+  left: 127.64px;
+  width: 53px;
+}
+.filterButton2 {
+  left: calc(50% + 338.76px);
+  width: 48px;
+}
+.groupChild7 {
+  position: absolute;
+  height: 0.45%;
+  width: 94.8%;
+  top: 90.47%;
+  right: 2.98%;
+  bottom: 9.08%;
+  left: 2.22%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.selectboxfilter1 {
+  position: absolute;
+  top: 21px;
+  right: 40.01px;
+  width: 110px;
+  height: 32px;
+  font-size: var(--font-size-smi);
+  color: var(--color-silver);
+  font-family: var(--font-azo-sans);
+}
+.path455Icon {
+  position: absolute;
+  width: 100%;
+  top: 44px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.path455Icon1 {
+  bottom: -22px;
+}
+.path455Icon1,
+.path455Icon2,
+.path455Icon3 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.path455Icon2 {
+  top: calc(50% - 25.5px);
+}
+.path455Icon3 {
+  bottom: -100px;
+}
+.path455Icon4 {
+  top: calc(50% + 52.5px);
+}
+.path455Icon4,
+.path455Icon5,
+.path455Icon7 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.path455Icon5 {
+  bottom: -178px;
+}
+.path455Icon7 {
+  top: calc(50% - 64.5px);
+}
+.path455Icon8 {
+  bottom: -61px;
+}
+.path455Icon10,
+.path455Icon11,
+.path455Icon12,
+.path455Icon8,
+.path455Icon9 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.path455Icon9 {
+  top: calc(50% + 13.5px);
+}
+.path455Icon10,
+.path455Icon11,
+.path455Icon12 {
+  bottom: -139px;
+}
+.path455Icon11,
+.path455Icon12 {
+  bottom: 17px;
+}
+.path455Icon12 {
+  bottom: -217px;
+}
+.meetingDoc,
+.notice {
+  position: absolute;
+  left: 1px;
+}
+.meetingDoc {
+  top: 40px;
+}
+.notice {
+  top: calc(50% + 30.5px);
+}
+.statement {
+  top: calc(50% - 125.5px);
+}
+.statement,
+.statement1,
+.statement2 {
+  position: absolute;
+  left: 1px;
+}
+.statement1 {
+  top: calc(50% + 108.5px);
+}
+.statement2 {
+  bottom: 38px;
+}
+.statement3 {
+  position: absolute;
+  top: 0;
+  left: 0.06px;
+}
+.notice3 {
+  position: absolute;
+  top: calc(50% + 68.5px);
+  left: 0;
+}
+.statement5,
+.statement6 {
+  position: absolute;
+  bottom: 78px;
+  left: 0;
+}
+.statement6 {
+  bottom: 0;
+}
+.meetingDocParent {
+  position: absolute;
+  height: calc(100% + 192px);
+  top: 14.6px;
+  right: 66.18px;
+  bottom: -206.6px;
+  width: 81px;
+}
+.annualMeetingInformation {
+  position: absolute;
+  top: 39px;
+  left: 0;
+}
+.capitalCallQ3,
+.q4CapitalAccount {
+  position: absolute;
+  top: calc(50% + 29.5px);
+  left: 0;
+}
+.q4CapitalAccount {
+  top: calc(50% - 126.5px);
+}
+.capitalCallQ31,
+.q4CapitalAccount1 {
+  position: absolute;
+  top: calc(50% + 107.5px);
+  left: 0;
+}
+.capitalCallQ31 {
+  top: calc(50% - 48.5px);
+}
+.q4CapitalAccount2 {
+  position: absolute;
+  bottom: 39px;
+  left: 0;
+}
+.q4CapitalAccount3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.annualMeetingInformation202Parent,
+.parent {
+  position: absolute;
+  height: calc(100% + 192px);
+  top: 14.6px;
+  bottom: -206.6px;
+}
+.annualMeetingInformation202Parent {
+  left: 96.12px;
+  width: 220px;
+}
+.parent {
+  left: calc(50% + 345.21px);
+  width: 64px;
+}
+.descriptionFill0Wght400GradIcon {
+  position: absolute;
+  top: 12.5px;
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon1 {
+  position: absolute;
+  bottom: -91.5px;
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon2 {
+  position: absolute;
+  top: calc(50% - 95.5px);
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon3 {
+  position: absolute;
+  bottom: -131px;
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon4 {
+  position: absolute;
+  top: calc(50% - 59px);
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon5 {
+  position: absolute;
+  bottom: -167.5px;
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon6 {
+  position: absolute;
+  top: calc(50% - 19.5px);
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon7 {
+  position: absolute;
+  bottom: -207px;
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon8,
+.descriptionFill0Wght400GradIcon9 {
+  position: absolute;
+  top: calc(50% + 20px);
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon9 {
+  top: calc(50% + 59.5px);
+}
+.descriptionFill0Wght400GradIcon10 {
+  position: absolute;
+  bottom: 24.5px;
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon11,
+.descriptionFill0Wght400GradIcon12 {
+  position: absolute;
+  bottom: -15px;
+  left: 23.77px;
+  width: 19.2px;
+  height: 24px;
+}
+.descriptionFill0Wght400GradIcon12 {
+  bottom: -53px;
+}
+.scrollGroup13 {
+  position: absolute;
+  bottom: 41.79px;
+  left: calc(50% - 669.51px);
+  width: 1325.82px;
+  height: 295px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.rectangleGroup {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.investorProfileOverviewInner {
+  position: absolute;
+  bottom: 292px;
+  left: 141px;
+  width: 1399px;
+  height: 449px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.expandedWeightLossContainer {
+  position: absolute;
+  top: calc(50% - 36px);
+  right: -1px;
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+}
+.rectangleIcon {
+  position: absolute;
+  height: calc(100% - 11.08px);
+  top: 3.04px;
+  bottom: 8.04px;
+  left: 0;
+  border-radius: var(--br-5xs);
+  max-height: 100%;
+  width: 104px;
+  object-fit: cover;
+}
+.byJacobRobbins,
+.healthCare,
+.may52023 {
+  position: absolute;
+  left: calc(50% - 187.25px);
+}
+.healthCare {
+  top: 0;
+  text-transform: uppercase;
+}
+.byJacobRobbins,
+.may52023 {
+  bottom: 0;
+  color: var(--color-gray-100);
+}
+.may52023 {
+  left: calc(50% - 61.75px);
+}
+.expandedWeightLossDrugCoveParent {
+  position: absolute;
+  width: calc(100% - 7px);
+  top: calc(50% - 153.46px);
+  right: 7px;
+  left: 0;
+  height: 115.08px;
+}
+.weightWatchersEntersContainer {
+  position: absolute;
+  top: calc(50% - 31.98px);
+  right: -1px;
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+}
+.groupChild9 {
+  position: absolute;
+  height: calc(100% - 3.04px);
+  top: 3.04px;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  max-height: 100%;
+  width: 104px;
+  object-fit: cover;
+}
+.byJordanRubio,
+.healthCare1,
+.may32023 {
+  position: absolute;
+  left: calc(50% - 166.75px);
+}
+.healthCare1 {
+  top: 0;
+  text-transform: uppercase;
+}
+.byJordanRubio,
+.may32023 {
+  bottom: 15.96px;
+  color: var(--color-gray-100);
+}
+.may32023 {
+  left: calc(50% - 41.25px);
+}
+.weightWatchersEntersTeleheaParent {
+  position: absolute;
+  width: calc(100% - 48px);
+  right: 48px;
+  bottom: 71.32px;
+  left: 0;
+  height: 107.04px;
+}
+.bySusanMorse,
+.healthCareTech,
+.may192023 {
+  position: absolute;
+  left: calc(50% - 190.75px);
+}
+.healthCareTech {
+  top: 0;
+  text-transform: uppercase;
+}
+.bySusanMorse,
+.may192023 {
+  bottom: 15.96px;
+  color: var(--color-gray-100);
+}
+.may192023 {
+  left: calc(50% - 65.25px);
+}
+.israelIvfStartupLooksToDeParent {
+  position: absolute;
+  width: 100%;
+  top: 11px;
+  right: 0;
+  left: 0;
+  height: 107.04px;
+}
+.byMarinaTemkin,
+.healthCare2,
+.may42023 {
+  position: absolute;
+  left: calc(50% - 174.25px);
+}
+.healthCare2 {
+  top: 0;
+  text-transform: uppercase;
+}
+.byMarinaTemkin,
+.may42023 {
+  bottom: 15.96px;
+  color: var(--color-gray-100);
+}
+.may42023 {
+  left: calc(50% - 48.75px);
+}
+.rectangleParent1 {
+  position: absolute;
+  width: calc(100% - 33px);
+  top: calc(50% - 13.89px);
+  right: 33px;
+  left: 0;
+  height: 107.04px;
+}
+.scrollGroup14 {
+  position: absolute;
+  height: calc(100% - 0.96px);
+  top: 0.96px;
+  bottom: 0;
+  left: calc(50% - 321.4px);
+  width: 612.5px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+}
+.path460Icon,
+.path461Icon {
+  position: absolute;
+  height: 0.17%;
+  width: 99.69%;
+  top: 93.25%;
+  right: 0.08%;
+  bottom: 6.59%;
+  left: 0.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path461Icon {
+  top: -0.08%;
+  right: 0.39%;
+  bottom: 99.92%;
+  left: -0.08%;
+}
+.scrollGroup14Parent {
+  position: absolute;
+  height: calc(100% - 112.03px);
+  width: calc(100% - 45.2px);
+  top: 74px;
+  right: 21.2px;
+  bottom: 38.03px;
+  left: 24px;
+}
+.fundNews {
+  position: absolute;
+  top: 3.74%;
+  left: 3.49%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.moreVertButtonIcon,
+.selectboxfilter2 {
+  position: absolute;
+  top: 18px;
+  right: 23.2px;
+  width: 4.8px;
+  height: 32px;
+}
+.selectboxfilter2 {
+  top: 21px;
+  right: 36.32px;
+  width: 110px;
+  font-size: var(--font-size-smi);
+  color: var(--color-silver);
+  font-family: var(--font-azo-sans);
+}
+.componeseeMoreButtonnt2541 {
+  position: absolute;
+  right: 29px;
+  bottom: 31.5px;
+  width: 108.9px;
+  height: 16px;
+  cursor: pointer;
+  text-align: right;
+  color: var(--color-royalblue);
+}
+.groupParent1 {
+  position: absolute;
+  top: 1227px;
+  left: 141px;
+  width: 688px;
+  height: 707px;
+}
+.moreVertFill0Wght400Grad0Icon2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  width: 4.8px;
+}
+.accountTransactions {
+  position: absolute;
+  top: 14.06%;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.moreVertFill0Wght400Grad0Parent {
+  position: absolute;
+  width: calc(100% - 40.62px);
+  top: 21px;
+  right: 19.87px;
+  left: 20.75px;
+  height: 32px;
+}
+.path475Icon {
+  top: calc(50% + 52px);
+}
+.path475Icon,
+.path477Icon,
+.path479Icon {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.path477Icon {
+  top: calc(50% + 130px);
+}
+.path479Icon {
+  bottom: 18px;
+}
+.path468Icon,
+.path469Icon,
+.path470Icon,
+.path474Icon,
+.path476Icon,
+.path478Icon {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 104px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.path468Icon,
+.path469Icon,
+.path470Icon,
+.path474Icon,
+.path478Icon {
+  top: calc(50% - 26px);
+}
+.path468Icon,
+.path469Icon,
+.path470Icon,
+.path474Icon {
+  top: calc(50% - 182px);
+}
+.path468Icon,
+.path469Icon,
+.path470Icon {
+  top: calc(50% + 13px);
+}
+.path469Icon,
+.path470Icon {
+  top: calc(50% - 143px);
+}
+.path470Icon {
+  top: calc(50% + 91px);
+}
+.path471Icon {
+  top: calc(50% - 65px);
+}
+.path471Icon,
+.path472Icon,
+.path473Icon {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.path472Icon {
+  bottom: 57px;
+}
+.path473Icon {
+  top: 5px;
+}
+.capitalCall {
+  position: absolute;
+  top: 14.6px;
+  left: 18.97px;
+}
+.capitalCall1,
+.capitalCall2,
+.capitalCall3 {
+  position: absolute;
+  top: calc(50% - 93.5px);
+  left: 18.97px;
+}
+.capitalCall2,
+.capitalCall3 {
+  top: calc(50% + 101.1px);
+}
+.capitalCall3 {
+  top: calc(50% - 172.45px);
+}
+.capitalCall4 {
+  top: calc(50% - 15.55px);
+}
+.capitalCall4,
+.capitalCall5,
+.distribution {
+  position: absolute;
+  left: 18.97px;
+}
+.capitalCall5 {
+  bottom: 66.95px;
+}
+.distribution {
+  top: 53.5px;
+}
+.distribution1,
+.distribution2 {
+  position: absolute;
+  top: calc(50% - 54.6px);
+  left: 18.97px;
+}
+.distribution2 {
+  top: calc(50% + 140px);
+}
+.distribution3,
+.distribution4,
+.distribution5 {
+  position: absolute;
+  top: calc(50% - 133.55px);
+  left: 18.97px;
+}
+.distribution4,
+.distribution5 {
+  top: calc(50% + 61.05px);
+}
+.distribution5 {
+  top: calc(50% + 23.34px);
+}
+.distribution6 {
+  position: absolute;
+  bottom: 28.05px;
+  left: 18.97px;
+}
+.nexusHealthcareEquity {
+  position: absolute;
+  top: 14.6px;
+  left: calc(50% - 181.67px);
+}
+.nexusHealthcareEquity1,
+.nexusHealthcareEquity2 {
+  position: absolute;
+  top: calc(50% - 93.5px);
+  left: calc(50% - 181.67px);
+}
+.nexusHealthcareEquity2 {
+  top: calc(50% + 101.1px);
+}
+.nexusHealthcareEquity3,
+.nexusHealthcareEquity4 {
+  position: absolute;
+  top: calc(50% - 172.45px);
+  left: calc(50% - 181.67px);
+}
+.nexusHealthcareEquity4 {
+  top: calc(50% - 15.55px);
+}
+.nexusHealthcareEquity5 {
+  position: absolute;
+  bottom: 66.95px;
+  left: calc(50% - 181.67px);
+}
+.nexusHealthcareEquity6 {
+  position: absolute;
+  top: 53.5px;
+  left: calc(50% - 181.67px);
+}
+.nexusHealthcareEquity7 {
+  position: absolute;
+  top: calc(50% - 54.6px);
+  left: calc(50% - 181.67px);
+}
+.nexusHealthcareEquity8,
+.nexusHealthcareEquity9 {
+  position: absolute;
+  top: calc(50% + 140px);
+  left: calc(50% - 181.67px);
+}
+.nexusHealthcareEquity9 {
+  top: calc(50% - 133.55px);
+}
+.nexusHealthcareEquity10,
+.nexusHealthcareEquity11 {
+  position: absolute;
+  top: calc(50% + 61.05px);
+  left: calc(50% - 181.67px);
+}
+.nexusHealthcareEquity11 {
+  top: calc(50% + 23.34px);
+}
+.nexusHealthcareEquity12 {
+  position: absolute;
+  bottom: 28.05px;
+  left: calc(50% - 181.67px);
+}
+.aFrank,
+.aFrank1,
+.aFrank2,
+.aFrank3 {
+  position: absolute;
+  left: calc(50% - 0px);
+}
+.aFrank {
+  top: 14.6px;
+}
+.aFrank1,
+.aFrank2,
+.aFrank3 {
+  top: calc(50% - 93.5px);
+}
+.aFrank2,
+.aFrank3 {
+  top: calc(50% + 101.1px);
+}
+.aFrank3 {
+  top: calc(50% - 172.45px);
+}
+.aFrank4 {
+  top: calc(50% - 15.55px);
+}
+.aFrank4,
+.aFrank5,
+.aFrank6 {
+  position: absolute;
+  left: calc(50% - 0px);
+}
+.aFrank5 {
+  bottom: 66.95px;
+}
+.aFrank6 {
+  top: 53.5px;
+}
+.aFrank10,
+.aFrank11,
+.aFrank7,
+.aFrank8,
+.aFrank9 {
+  position: absolute;
+  top: calc(50% - 54.6px);
+  left: calc(50% - 0px);
+}
+.aFrank10,
+.aFrank11,
+.aFrank8,
+.aFrank9 {
+  top: calc(50% + 140px);
+}
+.aFrank10,
+.aFrank11,
+.aFrank9 {
+  top: calc(50% - 133.55px);
+}
+.aFrank10,
+.aFrank11 {
+  top: calc(50% + 61.05px);
+}
+.aFrank11 {
+  top: calc(50% + 23.34px);
+}
+.aFrank12 {
+  bottom: 28.05px;
+  left: calc(50% - 0px);
+}
+.aFrank12,
+.div14,
+.div15 {
+  position: absolute;
+}
+.div14 {
+  top: 14.6px;
+  left: calc(50% + 126.55px);
+}
+.div15 {
+  top: calc(50% - 93.5px);
+}
+.div15,
+.div16,
+.div17 {
+  left: calc(50% + 126.55px);
+}
+.div16 {
+  position: absolute;
+  top: calc(50% + 101.1px);
+}
+.div17 {
+  top: calc(50% - 172.45px);
+}
+.div17,
+.div18,
+.div19 {
+  position: absolute;
+}
+.div18 {
+  top: calc(50% - 15.55px);
+  left: calc(50% + 126.55px);
+}
+.div19 {
+  bottom: 66.95px;
+}
+.div19,
+.div20,
+.div21 {
+  left: calc(50% + 126.55px);
+}
+.div20 {
+  position: absolute;
+  top: 53.5px;
+}
+.div21 {
+  top: calc(50% - 54.6px);
+}
+.div21,
+.div22,
+.div23 {
+  position: absolute;
+}
+.div22 {
+  top: calc(50% + 140px);
+  left: calc(50% + 126.55px);
+}
+.div23 {
+  top: calc(50% - 133.55px);
+}
+.div23,
+.div24,
+.div25 {
+  left: calc(50% + 126.55px);
+}
+.div24 {
+  position: absolute;
+  top: calc(50% + 61.05px);
+}
+.div25 {
+  top: calc(50% + 23.34px);
+}
+.div25,
+.div26,
+.div27 {
+  position: absolute;
+}
+.div26 {
+  bottom: 28.05px;
+  left: calc(50% + 126.55px);
+}
+.div27 {
+  top: 14.6px;
+  right: 23.09px;
+}
+.div28,
+.div29,
+.div30,
+.div31 {
+  position: absolute;
+  top: calc(50% - 93.5px);
+  right: 23.09px;
+}
+.div29,
+.div30,
+.div31 {
+  top: calc(50% + 101.1px);
+}
+.div30,
+.div31 {
+  top: calc(50% - 172.45px);
+}
+.div31 {
+  top: calc(50% - 15.55px);
+}
+.div32 {
+  bottom: 66.95px;
+}
+.div32,
+.div33,
+.div34,
+.div35,
+.div36 {
+  position: absolute;
+  right: 23.09px;
+}
+.div33 {
+  top: 53.5px;
+}
+.div34,
+.div35,
+.div36 {
+  top: calc(50% - 54.6px);
+}
+.div35,
+.div36 {
+  top: calc(50% + 140px);
+}
+.div36 {
+  top: calc(50% - 133.55px);
+}
+.div37 {
+  top: calc(50% + 61.05px);
+}
+.div37,
+.div38,
+.div39 {
+  position: absolute;
+  right: 23.09px;
+}
+.div38 {
+  top: calc(50% + 23.34px);
+}
+.div39 {
+  bottom: 28.05px;
+}
+.scrollGroup15 {
+  position: absolute;
+  height: calc(100% - 29.5px);
+  top: 29.5px;
+  bottom: 0;
+  left: calc(50% - 323.37px);
+  width: 649.34px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.groupChild13 {
+  position: absolute;
+  height: 0.36%;
+  width: 100.12%;
+  top: 6.08%;
+  right: 0.04%;
+  bottom: 93.57%;
+  left: -0.15%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.filterButton3,
+.filterButton4 {
+  position: absolute;
+  top: 0;
+  height: 15px;
+}
+.filterButton3 {
+  left: calc(50% + 126.88px);
+  width: 71px;
+}
+.filterButton4 {
+  right: 32.09px;
+  width: 48px;
+}
+.filterButton5 {
+  left: calc(50% - 178.37px);
+  width: 53px;
+}
+.filterButton5,
+.filterButton6,
+.filterButton7 {
+  position: absolute;
+  top: 0;
+  height: 15px;
+}
+.filterButton6 {
+  left: 20.6px;
+  width: 47px;
+}
+.filterButton7 {
+  left: calc(50% - 0.12px);
+  width: 114px;
+}
+.groupChild14 {
+  position: absolute;
+  height: 0.36%;
+  width: 100.12%;
+  top: 99.82%;
+  right: 0.04%;
+  bottom: -0.18%;
+  left: -0.15%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.scrollGroup15Parent {
+  position: absolute;
+  width: calc(100% - 36.06px);
+  right: 17.91px;
+  bottom: 39.5px;
+  left: 18.15px;
+  height: 559.5px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.selectboxfilter3 {
+  position: absolute;
+  top: 21px;
+  right: 33.2px;
+  width: 110px;
+  height: 32px;
+  font-size: var(--font-size-smi);
+  color: var(--color-silver);
+  font-family: var(--font-azo-sans);
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 1227px;
+  right: 62px;
+  width: 688px;
+  height: 707px;
+  font-size: var(--font-size-base);
+}
+.groupChild15,
+.groupChild16,
+.tabButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-aliceblue-100);
+}
+.groupChild15 {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) inset;
+}
+.groupChild16,
+.tabButtonChild {
+  mix-blend-mode: multiply;
+}
+.groupChild16 {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) inset;
+}
+.tabButtonChild {
+  opacity: 0;
+}
+.investmentProfile {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 70px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.financeChipFill0Wght400GraIcon {
+  position: absolute;
+  top: 10.92px;
+  left: calc(50% - 112.54px);
+  width: 28.54px;
+  height: 18.16px;
+}
+.tabButton {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 338px;
+}
+.bankingInformation {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 74.48px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.accountBalanceFill0Wght400Icon {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 111.33px);
+  width: 24.27px;
+  height: 24px;
+}
+.tabButton1,
+.tabNavButtonChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.tabButton1 {
+  left: calc(50% + 7px);
+  width: 338px;
+}
+.tabNavButtonChild {
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-lightsteelblue);
+  mix-blend-mode: multiply;
+}
+.overview {
+  position: absolute;
+  top: 25%;
+  left: 42.46%;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.iconMaterialInfoOutline {
+  position: absolute;
+  right: 202.5px;
+  bottom: 10px;
+  width: 20px;
+  height: 20px;
+}
+.tabNavButton {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 338px;
+}
+.personalInformation {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 82px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.personFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  height: calc(100% - 20.59px);
+  top: 10px;
+  bottom: 10.59px;
+  left: 54.08px;
+  max-height: 100%;
+  width: 20px;
+}
+.tabButton2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 345px);
+  width: 338px;
+  cursor: pointer;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 264px;
+  left: 142px;
+  width: 1396px;
+  height: 40px;
+  text-align: center;
+}
+.fundExtension {
+  position: absolute;
+  top: calc(50% - 108.4px);
+  left: 17.39px;
+}
+.path455Icon14 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 7px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.capitalCall6 {
+  position: absolute;
+  bottom: 17.4px;
+  left: 17.39px;
+}
+.path455Icon15 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 40px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.fundUpdate {
+  position: absolute;
+  top: calc(50% - 30.4px);
+  left: 17.39px;
+}
+.path455Icon16 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: -71px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.investorMeeting {
+  position: absolute;
+  bottom: -60.6px;
+  left: 17.39px;
+}
+.path455Icon17 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% + 38px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.capitalAccountStatement {
+  position: absolute;
+  top: calc(50% + 47.6px);
+  left: 17.39px;
+}
+.path455Icon18 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: -149px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.capitalAccountStatement1 {
+  position: absolute;
+  bottom: -138.6px;
+  left: 17.39px;
+}
+.subscriptionRequest {
+  position: absolute;
+  top: 14.6px;
+  left: 16.04px;
+}
+.path455Icon20 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 79px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.complianceReminder {
+  position: absolute;
+  top: calc(50% - 69.4px);
+  left: 17.39px;
+}
+.path455Icon21 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: -32px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.complianceReminder1 {
+  position: absolute;
+  bottom: -21.6px;
+  left: 17.39px;
+}
+.path455Icon22 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 1px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.investorMeeting1 {
+  position: absolute;
+  top: calc(50% + 8.6px);
+  left: 17.39px;
+}
+.path455Icon23 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: -110px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.alfredTigTrust,
+.path455Icon24 {
+  position: absolute;
+  bottom: -99.6px;
+  left: 17.39px;
+}
+.path455Icon24 {
+  width: 100%;
+  right: 0;
+  bottom: 46px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.navUpdate {
+  position: absolute;
+  top: calc(50% + 86.6px);
+  left: 17.39px;
+}
+.path455Icon25 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: -188px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 39px;
+}
+.navUpdate1 {
+  position: absolute;
+  bottom: -177.6px;
+  left: 17.39px;
+}
+.complete {
+  position: absolute;
+  top: calc(50% - 47.5px);
+  left: 1px;
+}
+.docsToSign {
+  position: absolute;
+  top: 78px;
+  left: 0;
+}
+.fmApproval,
+.fundsCommitted {
+  position: absolute;
+  top: calc(50% - 87.5px);
+  left: 0;
+}
+.fundsCommitted {
+  top: calc(50% - 9.5px);
+}
+.waitingOnFundsParent {
+  position: absolute;
+  height: calc(100% + 163px);
+  top: 14.6px;
+  right: 73.18px;
+  bottom: -177.6px;
+  width: 110px;
+}
+.scrollGroup13Child,
+.scrollGroup13Item {
+  position: absolute;
+  top: calc(50% - 100.96px);
+  left: calc(50% + 127.23px);
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+}
+.scrollGroup13Item {
+  top: calc(50% - 64px);
+}
+.scrollGroup13Inner {
+  top: calc(50% + 15.47px);
+}
+.ellipseIcon,
+.scrollGroup13Child1,
+.scrollGroup13Child2,
+.scrollGroup13Inner {
+  position: absolute;
+  left: calc(50% + 127.23px);
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+}
+.ellipseIcon {
+  bottom: -18.47px;
+}
+.scrollGroup13Child1,
+.scrollGroup13Child2 {
+  top: calc(50% + 54.47px);
+}
+.scrollGroup13Child2 {
+  top: calc(50% + 92.1px);
+}
+.scrollGroup13Child3 {
+  top: 20.04px;
+}
+.scrollGroup13Child3,
+.scrollGroup13Child4,
+.scrollGroup13Child5 {
+  position: absolute;
+  left: calc(50% + 127.23px);
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+}
+.scrollGroup13Child4 {
+  top: calc(50% - 23.53px);
+}
+.scrollGroup13Child5 {
+  bottom: 20.53px;
+}
+.scrollGroup131 {
+  position: absolute;
+  bottom: 27.79px;
+  left: calc(50% - 326.12px);
+  width: 649.34px;
+  height: 324px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-sm);
+}
+.alertsNotifications {
+  position: absolute;
+  top: 6%;
+  left: 2.14%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.groupChild18 {
+  position: absolute;
+  height: 0.43%;
+  width: 94.87%;
+  top: 24.78%;
+  right: 2.98%;
+  bottom: 74.8%;
+  left: 2.15%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.filterButton8,
+.filterButton9 {
+  position: absolute;
+  top: calc(50% - 149.35px);
+  height: 15px;
+  color: var(--color-gray-100);
+}
+.filterButton8 {
+  left: calc(50% + 125.13px);
+  width: 71px;
+}
+.filterButton9 {
+  left: 34.88px;
+  width: 53px;
+}
+.groupChild19 {
+  position: absolute;
+  height: 0.43%;
+  width: 94.87%;
+  top: 93.7%;
+  right: 2.98%;
+  bottom: 5.87%;
+  left: 2.15%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.rectangleParent4 {
+  position: absolute;
+  top: 738px;
+  right: 62px;
+  width: 688px;
+  height: 469px;
+  font-size: var(--font-size-xs);
+}
+.path466Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.backArrowButton {
+  position: absolute;
+  top: calc(50% + 22px);
+  left: 27px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+  cursor: pointer;
+}
+.thomasSmith {
+  position: absolute;
+  top: calc(50% + 10px);
+  left: 156px;
+  line-height: 35px;
+}
+.avatarIcon {
+  position: absolute;
+  bottom: 9.5px;
+  left: 88.54px;
+  border-radius: 50%;
+  width: 52.5px;
+  height: 52.5px;
+  object-fit: cover;
+}
+.investorProfileOverviewChild {
+  position: absolute;
+  top: 0;
+  left: 78px;
+  width: 1522px;
+  height: 162px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+}
+.rectangleParent5 {
+  position: absolute;
+  top: 172px;
+  left: 142px;
+  width: 1396px;
+  height: 40px;
+  text-align: center;
+}
+.investorProfileOverviewItem {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  background-color: var(--color-aliceblue-100);
+  width: 1520px;
+  height: 247px;
+}
+.backArrowButton1 {
+  position: absolute;
+  top: calc(50% - 20.5px);
+  left: 27px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+}
+.thomasSmith1 {
+  position: absolute;
+  top: calc(50% - 33.5px);
+  left: 178px;
+  line-height: 48px;
+}
+.editSaveButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+}
+.edit {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 39.5px);
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.editFill0Wght400Grad0Opsz4Icon {
+  position: absolute;
+  height: calc(100% - 16px);
+  top: 8px;
+  bottom: 8px;
+  left: calc(50% + 18.5px);
+  max-height: 100%;
+  width: 20px;
+}
+.editSaveButton {
+  position: absolute;
+  top: calc(50% - 36.5px);
+  right: 61px;
+  width: 115px;
+  height: 36px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.avatarIcon1 {
+  position: absolute;
+  top: calc(50% - 21.5px);
+  left: 87.54px;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+.groupParent2 {
+  position: absolute;
+  top: 0;
+  left: 79px;
+  width: 1522px;
+  height: 247px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}
+.path428Icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.5px);
+  top: 0;
+  right: 0.5px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.leftNavButtonChild,
+.leftNavButtonInner {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+}
+.leftNavButtonChild {
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+}
+.leftNavButtonInner {
+  left: 0;
+  background-color: var(--color-deepskyblue-200);
+  width: 6px;
+}
+.storefrontFill1Wght400Grad0Icon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 28.83px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 22.33px;
+}
+.leftNavButton {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 143px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.notificationsFill0Wght400GrIcon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 32px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 16px;
+  opacity: 0.5;
+}
+.leftNavButtonChild2 {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 2px);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+}
+.div45 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% + 2px);
+  letter-spacing: 0.8px;
+  font-weight: 500;
+}
+.leftNavButton1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 203px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.iconAwesomeTasks {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.7px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton2 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 217px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.manageAccountsFill0Wght400Icon {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.8px;
+  height: 20px;
+}
+.leftNavButton3 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 97px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.homeStorageFill0Wght400GraIcon {
+  position: absolute;
+  right: 30.16px;
+  bottom: 20px;
+  width: 19.69px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton4 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 157px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.settingsFill0Wght400Grad0OIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 30.22px;
+  width: 19.56px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton5 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 92px;
+  left: 0;
+  height: 60px;
+}
+.logoutFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 20px;
+  right: 30.17px;
+  width: 19.67px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton6 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 32px;
+  left: 0;
+  height: 60px;
+}
+.homeFill0Wght300Grad0Opsz4Icon {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 9.05px);
+  width: 18.1px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton7 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 83px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+  cursor: pointer;
+}
+.domainFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  width: calc(100% - 57.78px);
+  right: 28.76px;
+  bottom: 20.19px;
+  left: 29.01px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton8 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 443px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+  cursor: pointer;
+}
+.leftNavClosedChild {
+  position: absolute;
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-900);
+  box-sizing: border-box;
+  width: 81px;
+  height: 2px;
+}
+.closedMenuIconChild {
+  top: 0;
+  width: 22px;
+}
+.closedMenuIconChild,
+.closedMenuIconInner,
+.closedMenuIconItem {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 2.5px;
+}
+.closedMenuIconItem {
+  bottom: 0;
+  width: 22px;
+}
+.closedMenuIconInner {
+  top: calc(50% - 1.25px);
+  width: 17px;
+}
+.chevronRightFill0Wght400GrIcon3 {
+  position: absolute;
+  height: 73.95%;
+  width: 28.07%;
+  top: 13.55%;
+  right: 0;
+  bottom: 12.5%;
+  left: 71.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.closedMenuIcon {
+  position: absolute;
+  top: 25px;
+  left: 22.29px;
+  width: 29.81px;
+  height: 20px;
+  opacity: 0.5;
+}
+.navDrawerLeft {
+  position: absolute;
+  top: 0;
+  left: -0.5px;
+  width: 80.5px;
+  height: 960px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-azo-sans);
+}
+.navbarbgIcon {
+  position: absolute;
+  height: calc(100% + 18px);
+  width: calc(100% + 18px);
+  top: 0;
+  right: -18px;
+  bottom: -18px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.userMenuIcon {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 22px;
+  width: 62px;
+  height: 36px;
+}
+.groupIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 109.79px;
+}
+.t {
+  letter-spacing: -0.06px;
+}
+.v {
+  letter-spacing: -0.13px;
+}
+.alternativeInvestmentPlatforContainer {
+  position: absolute;
+  top: calc(50% - 11px);
+  right: 19px;
+  line-height: 12px;
+}
+.groupParent3 {
+  position: absolute;
+  top: calc(50% - 19.7px);
+  left: 22px;
+  width: 261.22px;
+  height: 39.4px;
+}
+.search {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 64px);
+}
+.iconactionsearch24px {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 8px;
+  width: 24px;
+  height: 24px;
+}
+.searchParent {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 102px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 220px;
+  height: 36px;
+  font-family: var(--font-cresta);
+}
+.navbarbgParent {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1520px;
+  height: 70px;
+  font-family: var(--font-cresta-medium);
+}
+.component20940 {
+  position: absolute;
+  top: 848px;
+  right: 4px;
+  width: 74px;
+  height: 74px;
+}
+.investorProfileOverview {
+  position: relative;
+  background-color: var(--color-aliceblue-100);
+  width: 100%;
+  height: 2695px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}

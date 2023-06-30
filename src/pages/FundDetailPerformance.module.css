@@ -1,0 +1,1340 @@
+.performance {
+  position: absolute;
+  top: 322px;
+  left: 142px;
+  font-size: var(--font-size-9xl);
+  line-height: 40px;
+}
+.groupChild,
+.moreVertFill0Wght400Grad0Icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.groupChild {
+  width: 100%;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.moreVertFill0Wght400Grad0Icon {
+  max-height: 100%;
+  width: 4.8px;
+}
+.detailPerformanceData {
+  position: absolute;
+  top: 14.06%;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.moreVertFill0Wght400Grad0Parent {
+  position: absolute;
+  width: calc(100% - 34.51px);
+  top: 21px;
+  right: 18.76px;
+  left: 15.75px;
+  height: 32px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-cresta);
+}
+.groupItem {
+  position: absolute;
+  width: calc(100% - 37.8px);
+  top: 149.25px;
+  right: 18.5px;
+  left: 19.3px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 2px;
+}
+.groupInner {
+  top: 106px;
+}
+.groupChild1,
+.groupInner,
+.lineDiv {
+  position: absolute;
+  width: calc(100% - 38.06px);
+  right: 18.76px;
+  left: 19.3px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 2px;
+}
+.lineDiv {
+  top: 192.56px;
+}
+.groupChild1 {
+  top: calc(50% - 300.64px);
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5,
+.groupChild6,
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  position: absolute;
+  width: calc(100% - 38.06px);
+  top: calc(50% - 257.33px);
+  right: 18.76px;
+  left: 19.3px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 2px;
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild3,
+.groupChild4,
+.groupChild5,
+.groupChild6,
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  top: calc(50% - 216.02px);
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild4,
+.groupChild5,
+.groupChild6,
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  top: calc(50% - 119px);
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild5,
+.groupChild6,
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  top: calc(50% - 174.72px);
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild6,
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  top: calc(50% - 77.69px);
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  top: calc(50% - 36.39px);
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild8,
+.groupChild9 {
+  top: calc(50% + 4.92px);
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild9 {
+  top: calc(50% + 46.23px);
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild13 {
+  top: calc(50% + 87.53px);
+}
+.groupChild11,
+.groupChild12,
+.groupChild13 {
+  top: calc(50% + 128.84px);
+}
+.groupChild12,
+.groupChild13 {
+  top: calc(50% + 170.15px);
+}
+.groupChild13 {
+  top: calc(50% + 211.45px);
+}
+.groupChild14 {
+  top: calc(50% + 252.76px);
+}
+.groupChild14,
+.groupChild15,
+.groupChild16,
+.groupChild17,
+.groupChild18,
+.groupChild19,
+.groupChild20 {
+  position: absolute;
+  width: calc(100% - 38.06px);
+  right: 18.76px;
+  left: 19.3px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 2px;
+}
+.groupChild15 {
+  top: calc(50% + 294.07px);
+}
+.groupChild16,
+.groupChild17,
+.groupChild18,
+.groupChild19,
+.groupChild20 {
+  bottom: 199.13px;
+}
+.groupChild17,
+.groupChild18,
+.groupChild19,
+.groupChild20 {
+  bottom: 157.82px;
+}
+.groupChild18,
+.groupChild19,
+.groupChild20 {
+  bottom: 116.51px;
+}
+.groupChild19,
+.groupChild20 {
+  bottom: 75.21px;
+}
+.groupChild20 {
+  bottom: 33.9px;
+}
+.totalCommitmentsTo {
+  top: 118.6px;
+}
+.cumulativeDistributionsTo,
+.cumulativePaidIn,
+.ofWhich,
+.totalCommitmentsTo {
+  position: absolute;
+  left: 25.5px;
+  font-family: var(--font-cresta);
+}
+.cumulativePaidIn {
+  top: 161.9px;
+}
+.cumulativeDistributionsTo,
+.ofWhich {
+  top: calc(50% - 331.29px);
+}
+.ofWhich {
+  top: calc(50% - 287.98px);
+}
+.totalAdditionalCommitment,
+.totalFairValue,
+.totalInvestedIn,
+.totalUnfundedCommitment {
+  position: absolute;
+  top: calc(50% - 246.68px);
+  left: 25.5px;
+  font-family: var(--font-cresta);
+}
+.totalAdditionalCommitment,
+.totalFairValue,
+.totalInvestedIn {
+  top: calc(50% - 205.37px);
+}
+.totalAdditionalCommitment,
+.totalFairValue {
+  top: calc(50% - 108.35px);
+}
+.totalFairValue {
+  top: calc(50% - 67.04px);
+}
+.fundNetIrr,
+.grossIrr,
+.grossMultipleTo,
+.totalCashBorrowings,
+.totalNetAsset {
+  position: absolute;
+  top: calc(50% - 25.73px);
+  left: 25.5px;
+  font-family: var(--font-cresta);
+}
+.fundNetIrr,
+.grossIrr,
+.grossMultipleTo,
+.totalNetAsset {
+  top: calc(50% + 15.57px);
+}
+.fundNetIrr,
+.grossIrr,
+.grossMultipleTo {
+  top: calc(50% + 56.88px);
+}
+.fundNetIrr,
+.grossMultipleTo {
+  top: calc(50% + 98.19px);
+}
+.fundNetIrr {
+  top: calc(50% + 139.49px);
+}
+.distributionsToPaid,
+.fundNetIrr1,
+.residualValueTo,
+.totalValueTo {
+  position: absolute;
+  top: calc(50% + 180.8px);
+  left: 25.5px;
+  font-family: var(--font-cresta);
+}
+.distributionsToPaid,
+.residualValueTo,
+.totalValueTo {
+  top: calc(50% + 222.11px);
+}
+.residualValueTo,
+.totalValueTo {
+  top: calc(50% + 263.41px);
+}
+.totalValueTo {
+  top: calc(50% + 304.72px);
+}
+.fundedCommitmentTo,
+.multipleOfInvested,
+.paidInCapital,
+.totalValueTo1 {
+  position: absolute;
+  bottom: 171.47px;
+  left: 25.5px;
+  font-family: var(--font-cresta);
+}
+.fundedCommitmentTo,
+.multipleOfInvested,
+.paidInCapital {
+  bottom: 130.17px;
+}
+.multipleOfInvested,
+.paidInCapital {
+  bottom: 88.86px;
+}
+.multipleOfInvested {
+  bottom: 47.55px;
+}
+.b {
+  position: absolute;
+  top: 119.6px;
+  right: 134px;
+  text-align: right;
+}
+.b,
+.b1,
+.b2 {
+  line-height: 20px;
+}
+.b1 {
+  position: absolute;
+  top: 119.6px;
+  left: calc(50% + 287px);
+}
+.b2 {
+  top: 162.9px;
+  right: 134px;
+  text-align: right;
+}
+.b2,
+.b3,
+.b4 {
+  position: absolute;
+}
+.b3 {
+  top: 162.9px;
+  left: calc(50% + 287px);
+  line-height: 20px;
+}
+.b4 {
+  top: calc(50% - 330.29px);
+  right: 144px;
+}
+.b4,
+.b5,
+.b6 {
+  line-height: 20px;
+}
+.b5 {
+  position: absolute;
+  top: calc(50% - 330.29px);
+  left: calc(50% + 288px);
+}
+.b6 {
+  top: calc(50% - 286.98px);
+  right: 144px;
+}
+.b6,
+.b7,
+.b8 {
+  position: absolute;
+}
+.b7 {
+  top: calc(50% - 286.98px);
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.b8 {
+  top: calc(50% - 245.68px);
+  right: 144px;
+}
+.b10,
+.b8,
+.b9 {
+  line-height: 20px;
+}
+.b9 {
+  position: absolute;
+  top: calc(50% - 245.68px);
+  left: calc(50% + 288px);
+}
+.b10 {
+  right: 144px;
+}
+.b10,
+.b11 {
+  position: absolute;
+  top: calc(50% - 204.37px);
+}
+.b11,
+.b12,
+.b13 {
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.b12 {
+  position: absolute;
+  top: calc(50% - 107.35px);
+}
+.b13 {
+  top: calc(50% - 66.04px);
+}
+.b13,
+.b14,
+.b15 {
+  position: absolute;
+}
+.b14 {
+  top: calc(50% - 24.73px);
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.b15 {
+  top: calc(50% + 16.57px);
+}
+.b15,
+.b16,
+.b17 {
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.b16 {
+  position: absolute;
+  top: calc(50% + 57.88px);
+}
+.b17 {
+  top: calc(50% + 99.19px);
+}
+.b17,
+.b18,
+.b19 {
+  position: absolute;
+}
+.b18 {
+  top: calc(50% + 140.49px);
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.b19 {
+  top: calc(50% + 181.8px);
+}
+.b19,
+.b20,
+.b21 {
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.b20 {
+  position: absolute;
+  top: calc(50% + 223.11px);
+}
+.b21 {
+  top: calc(50% + 264.41px);
+}
+.b21,
+.b22,
+.b23 {
+  position: absolute;
+}
+.b22 {
+  top: calc(50% + 305.72px);
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.b23 {
+  bottom: 170.47px;
+}
+.b23,
+.b24,
+.b25 {
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.b24 {
+  position: absolute;
+  bottom: 129.17px;
+}
+.b25 {
+  bottom: 87.86px;
+}
+.b25,
+.b26,
+.div {
+  position: absolute;
+}
+.b26 {
+  bottom: 46.55px;
+  left: calc(50% + 288px);
+  line-height: 20px;
+}
+.div {
+  top: -6.67%;
+  left: 0;
+  line-height: 13px;
+  text-transform: uppercase;
+}
+.filterButtonChild {
+  position: absolute;
+  top: calc(50% - 3.5px);
+  right: 0;
+  width: 12px;
+  height: 7px;
+}
+.filterButton,
+.filterButton1 {
+  position: absolute;
+  top: 80px;
+  height: 15px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+  font-family: var(--font-cresta);
+}
+.filterButton {
+  left: calc(50% + 288px);
+  width: 47px;
+}
+.filterButton1 {
+  right: 19px;
+  width: 154px;
+}
+.selectboxbg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+}
+.div1 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 12px;
+  font-weight: 500;
+}
+.smallDownIcon {
+  position: absolute;
+  top: calc(50% - 3px);
+  right: 12px;
+  width: 11px;
+  height: 7px;
+}
+.selectboxfilter {
+  position: absolute;
+  top: 21px;
+  right: 33px;
+  width: 110px;
+  height: 32px;
+  font-size: var(--font-size-smi);
+  color: var(--color-silver);
+}
+.rectangleParent {
+  position: absolute;
+  bottom: 149px;
+  left: 142px;
+  width: 1396px;
+  height: 1073px;
+  font-family: var(--font-azo-sans);
+}
+.groupChild21,
+.rectangleDiv,
+.tabNavButtonChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-181xl);
+}
+.rectangleDiv {
+  width: calc(100% - 2px);
+  right: 2px;
+  background-color: var(--color-aliceblue-100);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) inset;
+}
+.groupChild21,
+.tabNavButtonChild {
+  mix-blend-mode: multiply;
+}
+.groupChild21 {
+  width: calc(100% - 2px);
+  right: 2px;
+  background-color: var(--color-aliceblue-100);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) inset;
+}
+.tabNavButtonChild {
+  width: 100%;
+  right: 0;
+  background-color: var(--color-lightsteelblue);
+  opacity: 0;
+}
+.overview {
+  position: absolute;
+  top: 25%;
+  left: 40.34%;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.iconMaterialInfoOutline {
+  position: absolute;
+  height: 50%;
+  width: 8.58%;
+  top: 25%;
+  right: 65.24%;
+  bottom: 25%;
+  left: 26.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild22,
+.tabNavButton,
+.tabNavButtonItem {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 233px;
+}
+.groupChild22,
+.tabNavButtonItem {
+  width: 100%;
+  right: 0;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-lightsteelblue);
+  mix-blend-mode: multiply;
+}
+.groupChild22 {
+  background-color: var(--color-lightgray-200);
+  opacity: 0;
+}
+.performance1 {
+  position: absolute;
+  top: 25%;
+  left: 32.68%;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.monitoringFill0Wght400Grad0Icon {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 70.67px);
+  width: 20px;
+  height: 20px;
+}
+.rectangleContainer,
+.tabNavButton1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.rectangleContainer {
+  width: calc(100% - 2px);
+  right: 1px;
+  left: 1px;
+}
+.tabNavButton1 {
+  left: calc(50% - 466px);
+  width: 233px;
+}
+.portfolio {
+  position: absolute;
+  top: 25%;
+  left: 37.91%;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.domainFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  height: 45%;
+  width: 8.58%;
+  top: 27.5%;
+  right: 66.67%;
+  bottom: 27.5%;
+  left: 24.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tabNavButton2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 233px);
+  width: 233px;
+  cursor: pointer;
+}
+.investors {
+  position: absolute;
+  top: 25%;
+  left: 38.2%;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.handshakeFill0Wght400Grad0Icon {
+  position: absolute;
+  height: 45.4%;
+  width: 8.58%;
+  top: 27.3%;
+  right: 66.09%;
+  bottom: 27.3%;
+  left: 25.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tabNavButton3 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 0px);
+  width: 233px;
+  cursor: pointer;
+}
+.servicing {
+  position: absolute;
+  top: 25%;
+  left: 38.16%;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.designServicesFill0Wght400Icon,
+.tabNavButton4 {
+  position: absolute;
+  top: 11.18px;
+  left: calc(50% - 54.42px);
+  width: 17.83px;
+  height: 17.81px;
+}
+.tabNavButton4 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% + 233px);
+  width: 233px;
+  cursor: pointer;
+}
+.compliance {
+  position: absolute;
+  top: 25%;
+  left: 35.52%;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.factCheckFill0Wght400Grad0Icon {
+  position: absolute;
+  height: 44.12%;
+  width: 8.58%;
+  top: 27.94%;
+  right: 69.85%;
+  bottom: 27.94%;
+  left: 21.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tabNavButton5 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 233px;
+  cursor: pointer;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 259px;
+  left: 142px;
+  width: 1398px;
+  height: 40px;
+  text-align: center;
+}
+.maskGroup35 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 135px);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 135px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.privateHealthcare {
+  margin: 0;
+}
+.privateHealthcareFundContainer {
+  position: absolute;
+  bottom: 21px;
+  left: 146px;
+  line-height: 24px;
+}
+.backArrowButton {
+  position: absolute;
+  top: calc(50% + 22px);
+  left: 27px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+  cursor: pointer;
+}
+.maskGroup38 {
+  position: absolute;
+  width: calc(100% - 14px);
+  top: calc(50% - 13px);
+  right: 7px;
+  left: 7px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 27px;
+  object-fit: cover;
+}
+.maskGroup38Wrapper {
+  position: absolute;
+  bottom: 22px;
+  left: 64px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 75px;
+  height: 46px;
+}
+.privateHealthcareFundIiiParent {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 150px);
+  top: 0;
+  right: 150px;
+  bottom: 0;
+  left: 0;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(10, 26, 39, 0.6),
+    #0a1a27
+  );
+}
+.maskGroup35Parent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.fundDetailPerformanceInner {
+  position: absolute;
+  top: 0;
+  left: 78px;
+  width: 1672px;
+  height: 162px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.groupDiv {
+  position: absolute;
+  top: 175px;
+  left: 142px;
+  width: 1398px;
+  height: 40px;
+  text-align: center;
+}
+.fundDetailPerformanceChild {
+  position: absolute;
+  top: 70px;
+  left: 80px;
+  background-color: var(--color-aliceblue-100);
+  width: 1520px;
+  height: 178px;
+}
+.maskGroup351 {
+  position: absolute;
+  width: calc(100% - 116px);
+  right: 0;
+  bottom: 0;
+  left: 116px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 177px;
+  object-fit: cover;
+}
+.nexusHealthEquity {
+  position: absolute;
+  top: calc(50% - 33.5px);
+  left: 228px;
+  line-height: 48px;
+}
+.backArrowButton1 {
+  position: absolute;
+  top: calc(50% - 20.5px);
+  left: 27px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+  cursor: pointer;
+}
+.maskGroup381 {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: calc(50% - 27px);
+  right: 13px;
+  left: 13px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 54px;
+  object-fit: cover;
+}
+.maskGroup38Container {
+  position: absolute;
+  top: calc(50% - 29.5px);
+  left: 64px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 149px;
+  height: 92px;
+}
+.nexusHealthEquityFundParent {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 114px);
+  top: 0;
+  right: 114px;
+  bottom: 0;
+  left: 0;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(10, 26, 39, 0.6),
+    #0a1a27
+  );
+}
+.maskGroup35Group {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1636px;
+  height: 247px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}
+.navbarbgIcon {
+  position: absolute;
+  height: calc(100% + 18px);
+  width: calc(100% + 18px);
+  top: 0;
+  right: -18px;
+  bottom: -18px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.userMenuIcon {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 22px;
+  width: 62px;
+  height: 36px;
+}
+.groupIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 109.79px;
+}
+.t {
+  letter-spacing: -0.06px;
+}
+.v {
+  letter-spacing: -0.13px;
+}
+.alternativeInvestmentPlatforContainer {
+  position: absolute;
+  top: calc(50% - 11px);
+  right: 19px;
+  line-height: 12px;
+}
+.groupParent {
+  position: absolute;
+  top: calc(50% - 19.7px);
+  left: 22px;
+  width: 261.22px;
+  height: 39.4px;
+}
+.search {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 64px);
+}
+.iconactionsearch24px {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 8px;
+  width: 24px;
+  height: 24px;
+}
+.searchParent {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 102px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 220px;
+  height: 36px;
+  font-family: var(--font-cresta);
+}
+.navbarbgParent {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1520px;
+  height: 70px;
+  font-family: var(--font-cresta-medium);
+}
+.path428Icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.5px);
+  top: 0;
+  right: 0.5px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.leftNavButtonChild,
+.leftNavButtonInner {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+}
+.leftNavButtonChild {
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+}
+.leftNavButtonInner {
+  left: 0;
+  background-color: var(--color-deepskyblue-200);
+  width: 6px;
+}
+.storefrontFill1Wght400Grad0Icon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 28.83px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 22.33px;
+}
+.leftNavButton {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 143px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.notificationsFill0Wght400GrIcon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 32px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 16px;
+  opacity: 0.5;
+}
+.ellipseIcon {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 2px);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+}
+.div2 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% + 2px);
+  letter-spacing: 0.8px;
+  font-weight: 500;
+}
+.leftNavButton1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 203px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.iconAwesomeTasks {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.7px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton2 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 217px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.manageAccountsFill0Wght400Icon {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.8px;
+  height: 20px;
+}
+.leftNavButton3 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 97px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.homeStorageFill0Wght400GraIcon {
+  position: absolute;
+  right: 30.16px;
+  bottom: 20px;
+  width: 19.69px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton4 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 157px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.settingsFill0Wght400Grad0OIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 30.22px;
+  width: 19.56px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton5 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 92px;
+  left: 0;
+  height: 60px;
+}
+.logoutFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 20px;
+  right: 30.17px;
+  width: 19.67px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton6 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 32px;
+  left: 0;
+  height: 60px;
+}
+.homeFill0Wght300Grad0Opsz4Icon {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 9.05px);
+  width: 18.1px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton7 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 83px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+  cursor: pointer;
+}
+.domainFill0Wght400Grad0OpsIcon2 {
+  position: absolute;
+  width: calc(100% - 57.78px);
+  right: 28.76px;
+  bottom: 20.19px;
+  left: 29.01px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton8 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 443px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+  cursor: pointer;
+}
+.leftNavClosedChild {
+  position: absolute;
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-900);
+  box-sizing: border-box;
+  width: 81px;
+  height: 2px;
+}
+.closedMenuIconChild {
+  top: 0;
+  width: 22px;
+}
+.closedMenuIconChild,
+.closedMenuIconInner,
+.closedMenuIconItem {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 2.5px;
+}
+.closedMenuIconItem {
+  bottom: 0;
+  width: 22px;
+}
+.closedMenuIconInner {
+  top: calc(50% - 1.25px);
+  width: 17px;
+}
+.chevronRightFill0Wght400GrIcon {
+  position: absolute;
+  height: 73.95%;
+  width: 28.07%;
+  top: 13.55%;
+  right: 0;
+  bottom: 12.5%;
+  left: 71.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.closedMenuIcon {
+  position: absolute;
+  top: 25px;
+  left: 22.29px;
+  width: 29.81px;
+  height: 20px;
+  opacity: 0.5;
+}
+.navDrawerLeft {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80.5px;
+  height: 960px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-azo-sans);
+}
+.component20935 {
+  position: absolute;
+  top: 848px;
+  right: 4px;
+  width: 74px;
+  height: 74px;
+}
+.fundDetailPerformance {
+  position: relative;
+  background-color: var(--color-aliceblue-100);
+  width: 100%;
+  height: 1607px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}

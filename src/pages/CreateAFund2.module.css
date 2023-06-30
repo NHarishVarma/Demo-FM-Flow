@@ -1,0 +1,1419 @@
+.bgIcon {
+  position: absolute;
+  height: 104.41%;
+  width: 105.29%;
+  top: 0;
+  right: -5.29%;
+  bottom: -4.41%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.maskGroup36 {
+  object-fit: cover;
+}
+.maskGroup36,
+.path465Icon {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 99px;
+}
+.buttonNormalChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-goldenrod);
+}
+.subscribe {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 40px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.buttonNormal {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.component212107 {
+  position: absolute;
+  right: 8px;
+  bottom: 21px;
+  width: 140px;
+  height: 48px;
+}
+.buttonNormalItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.viewDetail {
+  position: absolute;
+  top: calc(50% - 9.03px);
+  left: calc(50% - 47px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.component212108 {
+  position: absolute;
+  bottom: 21px;
+  left: 11px;
+  width: 140px;
+  height: 48px;
+}
+.privateEquity {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 1.4px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: var(--color-dimgray-200);
+}
+.loremIpsumDolor,
+.nexusHealthEquity {
+  position: absolute;
+  width: calc(100% + 1px);
+  left: 0;
+  display: inline-block;
+}
+.nexusHealthEquity {
+  top: 28px;
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+}
+.loremIpsumDolor {
+  top: calc(50% - 16px);
+  line-height: 18px;
+}
+.targetReturn {
+  top: 0;
+  left: 0;
+  width: 86px;
+}
+.b,
+.minimum,
+.targetReturn {
+  position: absolute;
+  display: inline-block;
+}
+.b {
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-xs);
+  width: 86px;
+}
+.minimum {
+  top: 0;
+  left: calc(50% - 20.01px);
+  width: 48px;
+}
+.b1 {
+  bottom: 0;
+  left: calc(50% - 42.01px);
+  font-size: var(--font-size-xs);
+  width: 92px;
+}
+.b1,
+.liquidity,
+.quarterly {
+  position: absolute;
+  display: inline-block;
+}
+.liquidity {
+  top: 0;
+  right: 8px;
+  width: 50px;
+}
+.quarterly {
+  right: -1px;
+  bottom: 0;
+  font-size: var(--font-size-xs);
+  width: 68px;
+}
+.targetReturnParent {
+  position: absolute;
+  width: calc(100% - 6px);
+  right: 6px;
+  bottom: 0;
+  left: 0;
+  height: 34px;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+}
+.addToCompare,
+.favoriteButtonIcon {
+  position: absolute;
+  top: 2px;
+  right: -2px;
+  width: 18px;
+  height: 15.33px;
+}
+.addToCompare {
+  top: 0.67px;
+  right: 22.55px;
+  width: 16px;
+  height: 16px;
+}
+.privateEquityParent {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: calc(50% - 86px);
+  right: 11px;
+  left: 11px;
+  height: 196px;
+  text-align: left;
+}
+.labelcontent {
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 35px);
+}
+.label {
+  position: absolute;
+  top: 24px;
+  right: 17px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-royalblue);
+  width: 132px;
+  height: 24px;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+}
+.maskGroup37 {
+  position: absolute;
+  top: 48px;
+  left: 11px;
+  width: 93px;
+  height: 38px;
+  object-fit: cover;
+}
+.bgParent {
+  position: absolute;
+  top: 447px;
+  left: 142px;
+  width: 340px;
+  height: 408px;
+}
+.image {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  background-color: var(--color-gray-200);
+  height: 99px;
+  opacity: 0.58;
+  mix-blend-mode: multiply;
+}
+.bgGroup {
+  top: 875px;
+  left: 142px;
+  width: 340px;
+  height: 408px;
+}
+.bg,
+.bgGroup,
+.subscribe2 {
+  position: absolute;
+}
+.bg {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 6px rgba(10, 26, 39, 0.14);
+}
+.subscribe2 {
+  top: calc(50% - 10.03px);
+  left: calc(50% - 40px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.component212111 {
+  position: absolute;
+  right: 11px;
+  bottom: 21px;
+  width: 140px;
+  height: 48px;
+}
+.privateEquity2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  letter-spacing: 1.4px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: var(--color-dimgray-200);
+  text-align: left;
+}
+.consumerGoodsRetailEnhancem {
+  width: calc(100% + 1px);
+  top: 28px;
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+  text-align: left;
+}
+.consumerGoodsRetailEnhancem,
+.loremIpsumDolor2,
+.targetReturn2 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.loremIpsumDolor2 {
+  width: calc(100% + 1px);
+  top: calc(50% - 16px);
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  text-align: left;
+}
+.targetReturn2 {
+  bottom: 20px;
+  width: 86px;
+}
+.minimum2 {
+  bottom: 20px;
+  left: calc(50% - 23.01px);
+  width: 48px;
+}
+.b5,
+.liquidity2,
+.minimum2,
+.quarterly2 {
+  position: absolute;
+  display: inline-block;
+}
+.b5 {
+  bottom: 0;
+  left: calc(50% - 45.01px);
+  font-size: var(--font-size-xs);
+  width: 92px;
+}
+.liquidity2,
+.quarterly2 {
+  right: 14px;
+  bottom: 20px;
+  width: 50px;
+}
+.quarterly2 {
+  right: -1px;
+  bottom: 0;
+  font-size: var(--font-size-xs);
+  width: 80px;
+}
+.image1,
+.privateEquityContainer {
+  position: absolute;
+  width: calc(100% - 22px);
+  right: 11px;
+  left: 11px;
+}
+.privateEquityContainer {
+  top: calc(50% - 86px);
+  height: 196px;
+  font-size: var(--font-size-3xs);
+}
+.image1 {
+  top: 11px;
+  background-color: var(--color-deepskyblue-200);
+  height: 99px;
+  mix-blend-mode: multiply;
+}
+.labelcontent2 {
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 11.5px);
+}
+.label2 {
+  position: absolute;
+  top: 24px;
+  right: 17px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-aliceblue-100);
+  width: 61px;
+  height: 24px;
+  text-align: right;
+  font-size: var(--font-size-smi);
+  color: var(--color-royalblue);
+}
+.maskGroup38 {
+  position: absolute;
+  top: 48px;
+  left: 11px;
+  width: 131px;
+  height: 38px;
+  object-fit: cover;
+}
+.bgContainer,
+.groupDiv {
+  position: absolute;
+  top: 447px;
+  left: 494px;
+  width: 340px;
+  height: 408px;
+}
+.groupDiv {
+  top: 875px;
+}
+.quarterly4 {
+  position: absolute;
+  right: 5px;
+  bottom: 0;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 68px;
+}
+.image3 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  background-color: var(--color-royalblue);
+  height: 99px;
+  opacity: 0.69;
+  mix-blend-mode: multiply;
+}
+.bgParent1,
+.bgParent2 {
+  position: absolute;
+  top: 447px;
+  left: 846px;
+  width: 340px;
+  height: 408px;
+}
+.bgParent2 {
+  top: 875px;
+}
+.image5,
+.maskGroup25 {
+  position: absolute;
+  left: 11px;
+}
+.maskGroup25 {
+  width: calc(100% - 18px);
+  top: 10px;
+  right: 7px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 101px;
+  object-fit: cover;
+}
+.image5 {
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  background-color: var(--color-gray-200);
+  height: 99px;
+  opacity: 0.37;
+  mix-blend-mode: multiply;
+}
+.labelcontent6 {
+  position: absolute;
+  top: 3px;
+  right: 13px;
+}
+.updateFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: 12.84px;
+  width: 14.95px;
+  height: 15px;
+}
+.label6 {
+  position: absolute;
+  top: 24px;
+  right: 17px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-aliceblue-100);
+  width: 153px;
+  height: 24px;
+  text-align: right;
+  font-size: var(--font-size-smi);
+  color: var(--color-royalblue);
+}
+.maskGroup40 {
+  position: absolute;
+  top: 48px;
+  left: 11px;
+  width: 117px;
+  height: 38px;
+  object-fit: cover;
+}
+.bgParent3,
+.bgParent4 {
+  position: absolute;
+  top: 447px;
+  right: 62px;
+  width: 340px;
+  height: 408px;
+}
+.bgParent4 {
+  top: 875px;
+}
+.label8 {
+  position: absolute;
+  top: 408px;
+  right: 1362px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  text-align: left;
+  opacity: 0.5;
+}
+.filterMenuButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+}
+.industry {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 14px;
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.iconMaterialArrowDropDown {
+  position: absolute;
+  top: calc(50% - 3.75px);
+  right: 15.11px;
+  width: 15px;
+  height: 7.5px;
+}
+.filterMenuButton {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  bottom: 12px;
+  left: calc(50% - 533px);
+  width: 145px;
+}
+.filterMenuButton1,
+.filterMenuButton2,
+.filterMenuButton3,
+.filterMenuButton4 {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  bottom: 12px;
+  left: calc(50% - 374px);
+  width: 140px;
+}
+.filterMenuButton2,
+.filterMenuButton3,
+.filterMenuButton4 {
+  left: calc(50% - 220px);
+}
+.filterMenuButton3,
+.filterMenuButton4 {
+  left: calc(50% - 66px);
+  width: 102px;
+}
+.filterMenuButton4 {
+  left: calc(50% + 50px);
+  width: 170px;
+}
+.sort {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 18px;
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.groupIcon {
+  position: absolute;
+  top: 8.56px;
+  right: 13.85px;
+  width: 19.15px;
+  height: 18.88px;
+}
+.filterMenuButton5 {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  right: 142px;
+  bottom: 12px;
+  width: 95px;
+}
+.iconMaterialArrowDropDown5 {
+  position: absolute;
+  top: calc(50% - 3.75px);
+  right: 15.5px;
+  width: 15px;
+  height: 7.5px;
+}
+.filterMenuButton6 {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  bottom: 12px;
+  left: 100px;
+  width: 153px;
+}
+.listFill0Wght400Grad0Opsz4Icon {
+  position: absolute;
+  height: calc(100% - 25.36px);
+  width: calc(100% - 28.86px);
+  top: 12.68px;
+  right: 14.43px;
+  bottom: 12.68px;
+  left: 14.43px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.filterMenuButton7 {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  right: 80px;
+  bottom: 12px;
+  width: 48px;
+}
+.iconMaterialCompareArrows {
+  position: absolute;
+  height: calc(100% - 16.56px);
+  top: 8px;
+  right: 14px;
+  bottom: 8.56px;
+  max-height: 100%;
+  width: 27.77px;
+}
+.compareParent,
+.filterNavBar {
+  position: absolute;
+  background-color: var(--color-gainsboro);
+}
+.compareParent {
+  top: calc(50% - 18px);
+  left: calc(50% + 408px);
+  border-radius: var(--br-5xs);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 141px;
+  height: 36px;
+}
+.filterNavBar {
+  top: 70px;
+  left: 0;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  width: 1600px;
+  height: 60px;
+  text-align: left;
+  color: var(--color-royalblue);
+}
+.createAFund2Child {
+  position: absolute;
+  top: 0;
+  left: 79px;
+  background-color: var(--color-aliceblue-100);
+  width: 1520px;
+  height: 391px;
+}
+.connectingInvestorsWith,
+.investmentMarketplace {
+  position: absolute;
+  top: calc(50% - 61px);
+  left: 80px;
+}
+.connectingInvestorsWith {
+  top: calc(50% + 18px);
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  display: inline-block;
+  width: 538px;
+  height: 82px;
+}
+.investmentMarketplaceParent {
+  position: absolute;
+  top: 0;
+  left: 79px;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(10, 26, 39, 0.62),
+    #0a1a27
+  );
+  width: 1520px;
+  height: 330px;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.filterNavBarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  width: 1520px;
+  height: 60px;
+}
+.filterMenuButton8 {
+  position: absolute;
+  top: 12px;
+  left: 181px;
+  width: 145px;
+  height: 36px;
+}
+.filterMenuButton10,
+.filterMenuButton9 {
+  position: absolute;
+  top: 12px;
+  left: 332px;
+  width: 140px;
+  height: 36px;
+}
+.filterMenuButton10 {
+  left: 478px;
+}
+.filterMenuButton11,
+.filterMenuButton12 {
+  position: absolute;
+  top: 12px;
+  left: 624px;
+  width: 102px;
+  height: 36px;
+}
+.filterMenuButton12 {
+  left: 732px;
+  width: 170px;
+}
+.filterMenuButton13 {
+  position: absolute;
+  top: 12px;
+  right: 134px;
+  width: 95px;
+  height: 36px;
+}
+.filterMenuButton14 {
+  position: absolute;
+  top: 12px;
+  left: 22px;
+  width: 153px;
+  height: 36px;
+}
+.filterMenuButton15 {
+  position: absolute;
+  top: 12px;
+  right: 80px;
+  width: 48px;
+  height: 36px;
+}
+.compareButton,
+.filterNavBar1 {
+  position: absolute;
+  top: 12px;
+  left: 1144px;
+  width: 141px;
+  height: 36px;
+}
+.filterNavBar1 {
+  top: 330px;
+  left: 79px;
+  width: 1520px;
+  height: 60px;
+  text-align: left;
+  color: var(--color-royalblue);
+}
+.navbarbgIcon {
+  position: absolute;
+  height: calc(100% + 18px);
+  width: calc(100% + 18px);
+  top: 0;
+  right: -18px;
+  bottom: -18px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.userMenuIcon {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 22px;
+  width: 62px;
+  height: 36px;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 109.79px;
+}
+.t {
+  letter-spacing: -0.06px;
+}
+.v {
+  letter-spacing: -0.13px;
+}
+.alternativeInvestmentPlatforContainer {
+  position: absolute;
+  top: calc(50% - 11px);
+  right: 19px;
+  line-height: 12px;
+}
+.groupParent {
+  position: absolute;
+  top: calc(50% - 19.7px);
+  left: 22px;
+  width: 261.22px;
+  height: 39.4px;
+}
+.search {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 64px);
+}
+.iconactionsearch24px {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 8px;
+  width: 24px;
+  height: 24px;
+}
+.searchParent {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 102px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 220px;
+  height: 36px;
+  font-family: var(--font-cresta);
+}
+.navbarbgParent {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1520px;
+  height: 70px;
+  text-align: left;
+  font-family: var(--font-cresta-medium);
+}
+.component20960 {
+  position: absolute;
+  top: 850px;
+  right: 14px;
+  width: 74px;
+  height: 74px;
+}
+.addAFund {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 54px);
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.iconMaterialAddCircleOutli {
+  position: absolute;
+  height: calc(100% - 16px);
+  top: 8px;
+  right: 19px;
+  bottom: 8px;
+  max-height: 100%;
+  width: 20px;
+}
+.addAFundParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-aliceblue-100);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+}
+.createAFund2Inner {
+  position: absolute;
+  top: 87px;
+  right: 60px;
+  width: 164px;
+  height: 36px;
+  text-align: left;
+}
+.path428Icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.5px);
+  top: 0;
+  right: 0.5px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.leftNavButtonChild,
+.leftNavButtonInner {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+}
+.leftNavButtonChild {
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+}
+.leftNavButtonInner {
+  left: 0;
+  background-color: var(--color-deepskyblue-200);
+  width: 6px;
+}
+.storefrontFill1Wght400Grad0Icon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 28.83px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 22.33px;
+}
+.leftNavButton {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 143px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.notificationsFill0Wght400GrIcon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 32px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 16px;
+  opacity: 0.5;
+}
+.ellipseIcon {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 2px);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+}
+.div {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% + 2px);
+  letter-spacing: 0.8px;
+  font-weight: 500;
+}
+.leftNavButton1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 203px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.iconAwesomeTasks {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.7px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton2 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 217px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.manageAccountsFill0Wght400Icon {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.8px;
+  height: 20px;
+}
+.leftNavButton3 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 97px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.homeStorageFill0Wght400GraIcon {
+  position: absolute;
+  right: 30.16px;
+  bottom: 20px;
+  width: 19.69px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton4 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 157px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.settingsFill0Wght400Grad0OIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 30.22px;
+  width: 19.56px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton5 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 92px;
+  left: 0;
+  height: 60px;
+}
+.logoutFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 20px;
+  right: 30.17px;
+  width: 19.67px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton6 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 32px;
+  left: 0;
+  height: 60px;
+}
+.homeFill0Wght300Grad0Opsz4Icon {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 9.05px);
+  width: 18.1px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton7 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 83px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+  cursor: pointer;
+}
+.domainFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  width: calc(100% - 57.78px);
+  right: 28.76px;
+  bottom: 20.19px;
+  left: 29.01px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton8 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 443px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+  cursor: pointer;
+}
+.leftNavClosedChild {
+  position: absolute;
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-900);
+  box-sizing: border-box;
+  width: 81px;
+  height: 2px;
+}
+.closedMenuIconChild {
+  top: 0;
+  width: 22px;
+}
+.closedMenuIconChild,
+.closedMenuIconInner,
+.closedMenuIconItem {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 2.5px;
+}
+.closedMenuIconItem {
+  bottom: 0;
+  width: 22px;
+}
+.closedMenuIconInner {
+  top: calc(50% - 1.25px);
+  width: 17px;
+}
+.chevronRightFill0Wght400GrIcon {
+  position: absolute;
+  height: 73.96%;
+  width: 28.07%;
+  top: 13.54%;
+  right: 0;
+  bottom: 12.5%;
+  left: 71.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.closedMenuIcon {
+  position: absolute;
+  top: 25px;
+  left: 22.29px;
+  width: 29.81px;
+  height: 20px;
+  opacity: 0.5;
+}
+.navDrawerLeft {
+  position: absolute;
+  top: 0;
+  left: -0.5px;
+  width: 80.5px;
+  height: 960px;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-azo-sans);
+}
+.createAFund2Item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 1600px;
+  height: 1905px;
+}
+.iconMaterialClose {
+  position: absolute;
+  top: 13px;
+  right: 15.98px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.investmentStrategyAnd {
+  position: absolute;
+  top: 122px;
+  left: 61px;
+  font-size: var(--font-size-lg);
+  line-height: 22px;
+  color: var(--color-royalblue);
+  text-align: center;
+}
+.logo,
+.logo1 {
+  position: absolute;
+}
+.logo {
+  top: 30px;
+  left: calc(50% - 70px);
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+}
+.logo1 {
+  bottom: 0;
+  left: calc(50% - 18.32px);
+}
+.groupItem,
+.rectangleWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+}
+.groupItem {
+  height: 100%;
+  bottom: 0;
+  background-color: var(--color-royalblue);
+  width: 82px;
+}
+.rectangleWrapper {
+  width: 100%;
+  right: 0;
+  background-color: var(--color-aliceblue-100);
+  height: 16px;
+}
+.logoParent {
+  position: absolute;
+  top: 65.81px;
+  left: calc(50% - 92px);
+  width: 184px;
+  height: 31px;
+  text-align: right;
+  color: var(--color-royalblue);
+}
+.path491Icon,
+.path492Icon,
+.path493Icon {
+  position: absolute;
+  width: calc(100% - 126px);
+  top: calc(50% - 342px);
+  right: 63px;
+  left: 63px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 105px;
+}
+.path492Icon,
+.path493Icon {
+  top: calc(50% - 217px);
+}
+.path493Icon {
+  top: calc(50% - 92px);
+}
+.path494Icon {
+  top: calc(50% + 33px);
+}
+.path494Icon,
+.path495Icon,
+.path496Icon {
+  position: absolute;
+  width: calc(100% - 126px);
+  right: 63px;
+  left: 63px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 105px;
+}
+.path495Icon {
+  top: calc(50% + 158px);
+}
+.path496Icon {
+  bottom: 130.5px;
+}
+.descriptionOfInvestment {
+  position: absolute;
+  top: 183.21px;
+  left: 77.16px;
+}
+.descriptionOfInvestment1 {
+  position: absolute;
+  top: calc(50% - 210.29px);
+  left: 77.16px;
+}
+.descriptionOfInvestment2,
+.descriptionOfRisk {
+  position: absolute;
+  top: calc(50% - 85.29px);
+  left: 77.16px;
+}
+.descriptionOfRisk {
+  top: calc(50% + 39.71px);
+}
+.descriptionOfExit,
+.descriptionOfValue {
+  position: absolute;
+  top: calc(50% + 164.71px);
+  left: 77.16px;
+}
+.descriptionOfExit {
+  top: calc(50% + 289.71px);
+}
+.buttonNormalChild13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-royalblue);
+}
+.save {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 21.5px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.buttonNormal16 {
+  position: absolute;
+  bottom: 34px;
+  left: calc(50% - 92px);
+  width: 185px;
+  height: 48px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.uploadDocument {
+  position: absolute;
+  top: 0;
+  right: -1px;
+  letter-spacing: 0.84px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.cloudUploadFill0Wght400GraIcon {
+  position: absolute;
+  height: calc(100% - 0.51px);
+  top: 0.51px;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 25.46px;
+}
+.uploadDocumentParent {
+  position: absolute;
+  width: calc(100% - 32.32px);
+  top: calc(50% - 10px);
+  right: 20px;
+  left: 12.32px;
+  height: 19px;
+}
+.groupFrame {
+  position: absolute;
+  top: 124px;
+  right: 63px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 215px;
+  height: 36px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-silver);
+}
+.groupContainer {
+  position: absolute;
+  top: 35px;
+  left: 361px;
+  width: 878px;
+  height: 1037px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.groupInner {
+  position: absolute;
+  height: calc(100% - 19px);
+  width: 100%;
+  top: 19px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.next {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 13px);
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+.groupParent1 {
+  position: absolute;
+  top: 166px;
+  left: 1266px;
+  width: 40px;
+  height: 59px;
+  cursor: pointer;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.groupChild1 {
+  position: absolute;
+  width: calc(100% - 10px);
+  right: 6px;
+  bottom: 0;
+  left: 4px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 40px;
+}
+.previous {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+.groupParent2 {
+  position: absolute;
+  top: 166px;
+  left: 290px;
+  width: 50px;
+  height: 59px;
+  cursor: pointer;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.createAFund2 {
+  position: relative;
+  background-color: var(--color-aliceblue-100);
+  width: 100%;
+  height: 1735px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}
